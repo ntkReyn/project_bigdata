@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sentiment Analysis Dashboard</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; background-color: #f4f7f6; margin: 0; padding: 0; }
+        h1 { text-align: center; color: #333; margin: 20px 0; }
+        h2 { text-align: center; color: #555; }
+        .container { display: flex; flex-wrap: wrap; justify-content: center; max-width: 1800px; margin: auto; }
+        .chart-box { background-color: #fff; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.05); margin: 15px; padding: 20px; box-sizing: border-box; }
+        .full-width { width: calc(100% - 30px); max-width: 1600px; }
+        .half-width { width: calc(50% - 30px); max-width: 800px; min-width: 600px; }
+        .small-pie { max-width: 500px; min-width: 400px; }
+    </style>
+</head>
+<body>
+    <h1>Big Data - Airline Sentiment Analysis</h1>
+
+    <div class="container">
+        
+        <div class="chart-box half-width">
+            <h2>Batch: Sentiment theo Hãng (Cột Ghép)</h2>
+            <canvas id="batchGroupedChart"></canvas>
+        </div>
+        <div class="chart-box small-pie">
+            <h2>Batch: Tổng quan Sentiment (Tròn)</h2>
+            <canvas id="batchPieChart"></canvas>
+        </div>
+
+        <div class="chart-box full-width">
+            <h2>Stream: Xu hướng Sentiment (Đường)</h2>
+            <canvas id="streamLineChart"></canvas>
+        </div>
+        <div class="chart-box full-width">
+            <h2>Stream: 10 Cửa sổ mới nhất (Cột)</h2>
+            <canvas id="streamBarChart"></canvas>
+        </div>
+    </div>
+
+    <script>
+        // === KHAI BÁO BIỂU ĐỒ ===
+        const ctxBatchGrouped = document.getElementById('batchGroupedChart').getContext('2d');
+        let batchGroupedChart = new Chart(ctxBatchGrouped, {
+            type: 'bar',
+            options: { scales: { x: { stacked: false }, y: { stacked: false, beginAtZero: true } } }
+        });
+
+        const ctxBatchPie = document.getElementById('batchPieChart').getContext('2d');
+        let batchPieChart = new Chart(ctxBatchPie, {
+            type: 'pie',
+            options: { responsive: true }
+        });
+
+        const ctxStreamLine = document.getElementById('streamLineChart').getContext('2d');
+        let streamLineChart = new Chart(ctxStreamLine, {
+            type: 'line',
+            options: { scales: { y: { beginAtZero: true } } }
+        });
+
+        const ctxStreamBar = document.getElementById('streamBarChart').getContext('2d');
+        let streamBarChart = new Chart(ctxStreamBar, {
+            type: 'bar',
+            options: { indexAxis: 'y', scales: { x: { beginAtZero: true } } }
+        });
+
+        // === HÀM LẤY DỮ LIỆU ===
+        
+        // --- BATCH (Chạy 1 lần) ---
+        async function fetchBatchData() {
+            // API 1: Cột ghép
+            const responseGrouped = await fetch('/api/batch_grouped');
+            const dataGrouped = await responseGrouped.json();
+            batchGroupedChart.data = dataGrouped;
+            batchGroupedChart.update();
+
+            // API 2: Tròn
+            const responsePie = await fetch('/api/batch_totals');
+            const dataPie = await responsePie.json();
+            batchPieChart.data = dataPie;
+            batchPieChart.update();
+        }
+
+        // --- STREAM (Chạy liên tục) ---
+        async function fetchStreamData() {
+            // API 3: Biểu đồ đường
+            const responseLine = await fetch('/api/stream_trend');
+            const dataLine = await responseLine.json();
+            streamLineChart.data = dataLine;
+            streamLineChart.update();
+
+            // API 4: Biểu đồ cột
+            const responseBar = await fetch('/api/stream_latest_windows');
+            const dataBar = await responseBar.json();
+            streamBarChart.data = dataBar;
+            streamBarChart.update();
+        }
+
+        // === KHỞI CHẠY ===
+        
+        // Chạy Batch 1 lần khi tải trang
+        fetchBatchData();
+        
+        // Chạy Stream 1 lần, và sau đó cứ 2 giây 1 lần
+        fetchStreamData();
+        setInterval(fetchStreamData, 2000); // <-- SỬA 5000ms thành 2000ms
+
+    </script>
+</body>
+</html>

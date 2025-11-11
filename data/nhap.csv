@@ -1,0 +1,10 @@
+tweet_id,airline_sentiment,airline_sentiment_confidence,negativereason,airline
+1,postive,1,test,hang A
+2,neutral,0.5,test,hang B
+3,neutral,0.5,test,hang B
+4,neutral,0.5,test,hang B
+5,negative,0.5,test,hang C
+6,neutral,0.5,test,hang B
+7,negative,0.5,test,hang C
+8,neutral,0.5,test,hang A
+9,positive,0.5,test,hang A
