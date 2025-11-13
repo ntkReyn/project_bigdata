@@ -1,112 +1,206 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="vi">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sentiment Analysis Dashboard</title>
-    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-    <style>
-        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; background-color: #f4f7f6; margin: 0; padding: 0; }
-        h1 { text-align: center; color: #333; margin: 20px 0; }
-        h2 { text-align: center; color: #555; }
-        .container { display: flex; flex-wrap: wrap; justify-content: center; max-width: 1800px; margin: auto; }
-        .chart-box { background-color: #fff; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.05); margin: 15px; padding: 20px; box-sizing: border-box; }
-        .full-width { width: calc(100% - 30px); max-width: 1600px; }
-        .half-width { width: calc(50% - 30px); max-width: 800px; min-width: 600px; }
-        .small-pie { max-width: 500px; min-width: 400px; }
-    </style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dashboard Sentiment</title>
+  <script src="https://code.highcharts.com/highcharts.js"></script>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background: linear-gradient(135deg, #1a2a6c, #2a5298);
+      color: white;
+      margin: 0;
+      padding: 20px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: flex-start;
+    }
+    .chart-container {
+      width: 1000px;
+      height: 400px;
+      border-radius: 12px;
+      overflow: hidden;
+      background: rgba(255,255,255,0.05);
+      backdrop-filter: blur(10px);
+      margin-bottom: 40px;
+    }
+    #updateTime {
+      margin-bottom: 20px;
+      color: rgba(255,255,255,0.7);
+    }
+    h2 {
+      margin-bottom: 10px;
+      color: white;
+    }
+  </style>
 </head>
 <body>
-    <h1>Big Data - Airline Sentiment Analysis</h1>
+  <h1>📈 Dashboard Sentiment</h1>
+  <div id="updateTime"></div>
 
-    <div class="container">
-        
-        <div class="chart-box half-width">
-            <h2>Batch: Sentiment theo Hãng (Cột Ghép)</h2>
-            <canvas id="batchGroupedChart"></canvas>
-        </div>
-        <div class="chart-box small-pie">
-            <h2>Batch: Tổng quan Sentiment (Tròn)</h2>
-            <canvas id="batchPieChart"></canvas>
-        </div>
+  <!-- 1. Streaming Line Chart -->
+  <h2>Trend Positive/Negative</h2>
+  <div id="streamLine" class="chart-container"></div>
 
-        <div class="chart-box full-width">
-            <h2>Stream: Xu hướng Sentiment (Đường)</h2>
-            <canvas id="streamLineChart"></canvas>
-        </div>
-        <div class="chart-box full-width">
-            <h2>Stream: 10 Cửa sổ mới nhất (Cột)</h2>
-            <canvas id="streamBarChart"></canvas>
-        </div>
-    </div>
+  <!-- 2. Grouped Column Chart -->
+  <h2>Sentiment theo hãng</h2>
+  <div id="batchGrouped" class="chart-container"></div>
 
-    <script>
-        // === KHAI BÁO BIỂU ĐỒ ===
-        const ctxBatchGrouped = document.getElementById('batchGroupedChart').getContext('2d');
-        let batchGroupedChart = new Chart(ctxBatchGrouped, {
-            type: 'bar',
-            options: { scales: { x: { stacked: false }, y: { stacked: false, beginAtZero: true } } }
-        });
+  <!-- 3. Pie / Doughnut Chart -->
+  <h2>Tổng sentiment</h2>
+  <div id="batchTotals" class="chart-container"></div>
 
-        const ctxBatchPie = document.getElementById('batchPieChart').getContext('2d');
-        let batchPieChart = new Chart(ctxBatchPie, {
-            type: 'pie',
-            options: { responsive: true }
-        });
+  <!-- 4. Column 10 Windows -->
+  <h2>Sentiment 10 cửa sổ gần nhất</h2>
+  <div id="streamLatest" class="chart-container"></div>
 
-        const ctxStreamLine = document.getElementById('streamLineChart').getContext('2d');
-        let streamLineChart = new Chart(ctxStreamLine, {
-            type: 'line',
-            options: { scales: { y: { beginAtZero: true } } }
-        });
+  <script>
+    // ===== 1. Streaming Line Chart =====
+    async function fetchStreamTrend() {
+      try {
+        const res = await fetch("/api/stream_trend");
+        return await res.json();
+      } catch (err) {
+        console.error(err);
+        return null;
+      }
+    }
 
-        const ctxStreamBar = document.getElementById('streamBarChart').getContext('2d');
-        let streamBarChart = new Chart(ctxStreamBar, {
-            type: 'bar',
-            options: { indexAxis: 'y', scales: { x: { beginAtZero: true } } }
-        });
+    const streamChart = Highcharts.chart('streamLine', {
+      chart: { type: 'spline', backgroundColor: 'transparent', animation: false },
+      title: { text: '' },
+      xAxis: { categories: [], labels: { style: { color: 'rgba(255,255,255,0.7)' } } },
+      yAxis: { min: 0, gridLineColor: 'rgba(255,255,255,0.1)', labels: { style: { color: 'rgba(255,255,255,0.7)' } } },
+      legend: { itemStyle: { color: 'rgba(255,255,255,0.8)' } },
+      credits: { enabled: false },
+      plotOptions: { series: { lineWidth: 2, marker: { enabled: false }, animation: false } },
+      series: [
+        { name: 'Positive', data: [], color: '#00ff88' },
+        { name: 'Negative', data: [], color: '#ff5555' }
+      ]
+    });
 
-        // === HÀM LẤY DỮ LIỆU ===
-        
-        // --- BATCH (Chạy 1 lần) ---
-        async function fetchBatchData() {
-            // API 1: Cột ghép
-            const responseGrouped = await fetch('/api/batch_grouped');
-            const dataGrouped = await responseGrouped.json();
-            batchGroupedChart.data = dataGrouped;
-            batchGroupedChart.update();
+    async function updateStreamChart() {
+      const data = await fetchStreamTrend();
+      if (!data) return;
 
-            // API 2: Tròn
-            const responsePie = await fetch('/api/batch_totals');
-            const dataPie = await responsePie.json();
-            batchPieChart.data = dataPie;
-            batchPieChart.update();
-        }
+      streamChart.xAxis[0].setCategories(data.labels, false);
+      streamChart.series[0].setData(data.datasets[0].data, false);
+      streamChart.series[1].setData(data.datasets[1].data, false);
+      streamChart.redraw();
 
-        // --- STREAM (Chạy liên tục) ---
-        async function fetchStreamData() {
-            // API 3: Biểu đồ đường
-            const responseLine = await fetch('/api/stream_trend');
-            const dataLine = await responseLine.json();
-            streamLineChart.data = dataLine;
-            streamLineChart.update();
+      document.getElementById("updateTime").textContent =
+        "Cập nhật lúc " + new Date().toLocaleTimeString("vi-VN");
+    }
 
-            // API 4: Biểu đồ cột
-            const responseBar = await fetch('/api/stream_latest_windows');
-            const dataBar = await responseBar.json();
-            streamBarChart.data = dataBar;
-            streamBarChart.update();
-        }
+    updateStreamChart();
+    setInterval(updateStreamChart, 5000);
 
-        // === KHỞI CHẠY ===
-        
-        // Chạy Batch 1 lần khi tải trang
-        fetchBatchData();
-        
-        // Chạy Stream 1 lần, và sau đó cứ 2 giây 1 lần
-        fetchStreamData();
-        setInterval(fetchStreamData, 2000); // <-- SỬA 5000ms thành 2000ms
+    // ===== 2. Grouped Column Chart =====
+    async function fetchBatchGrouped() {
+      const res = await fetch("/api/batch_grouped");
+      return await res.json();
+    }
 
-    </script>
+    async function renderBatchGrouped() {
+      const data = await fetchBatchGrouped();
+      Highcharts.chart('batchGrouped', {
+        chart: { type: 'column', backgroundColor: 'transparent' },
+        title: { text: '' },
+        xAxis: { categories: data.labels, labels: { style: { color: 'rgba(255,255,255,0.7)' } } },
+        yAxis: { min: 0, title: { text: 'Số lượng tweet' }, labels: { style: { color: 'rgba(255,255,255,0.7)' } } },
+        legend: { itemStyle: { color: 'rgba(255,255,255,0.8)' } },
+        plotOptions: { column: { stacking: 'normal' } },
+        series: data.datasets.map(ds => ({
+          name: ds.label,
+          data: ds.data,
+          color: ds.backgroundColor
+        }))
+      });
+    }
+
+    renderBatchGrouped();
+
+    // ===== 3. Pie / Doughnut Chart =====
+    async function renderBatchTotals() {
+      const res = await fetch("/api/batch_totals");
+      const data = await res.json();
+
+      if (!data || !data.datasets || !data.datasets[0]) {
+        console.error("Lỗi dữ liệu batch_totals:", data);
+        return;
+      }
+
+      const seriesData = (data.datasets[0].data || []).map((v, i) => ({
+        name: data.labels?.[i] || `Label ${i}`,
+        y: Number(v) || 0,
+        color: data.datasets[0].backgroundColor?.[i] || '#888'
+      }));
+
+        Highcharts.chart('batchTotals', {
+        chart: { 
+          type: 'pie',
+          backgroundColor: 'transparent'
+        },
+        title: { text: '' },
+        plotOptions: {
+          pie: {
+            innerSize: '60%',
+            borderWidth: 2,
+            borderColor: 'rgba(255,255,255,0.1)',
+            dataLabels: {
+              enabled: true,
+              color: '#fff',
+              style: { textOutline: 'none', fontSize: '14px', fontWeight: '500' },
+              format: '{point.name}<br>{point.y} ({point.percentage:.1f}%)'
+            },
+            states: {
+              hover: { brightness: 0.1 }
+            }
+          }
+        },
+        tooltip: {
+          pointFormat: '<b>{point.y}</b> tweet ({point.percentage:.1f}%)'
+        },
+        legend: {
+          itemStyle: { color: 'rgba(255,255,255,0.8)' }
+        },
+        series: [{
+          name: data.datasets[0].label,
+          data: seriesData
+        }]
+      });
+
+    }
+
+    renderBatchTotals();
+
+    // ===== 4. Column 10 Windows =====
+    async function fetchStreamLatest() {
+      const res = await fetch("/api/stream_latest_windows");
+      return await res.json();
+    }
+
+    async function renderStreamLatest() {
+      const data = await fetchStreamLatest();
+      Highcharts.chart('streamLatest', {
+        chart: { type: 'column', backgroundColor: 'transparent' },
+        title: { text: '' },
+        xAxis: { categories: data.labels, labels: { style: { color: 'rgba(255,255,255,0.7)' } } },
+        yAxis: { min: 0, title: { text: 'Số lượng tweet' }, labels: { style: { color: 'rgba(255,255,255,0.7)' } } },
+        legend: { enabled: false },
+        series: [{
+          name: data.datasets[0].label,
+          data: data.datasets[0].data,
+          color: undefined,
+          colors: data.datasets[0].backgroundColor
+        }]
+      });
+    }
+
+    renderStreamLatest();
+  </script>
 </body>
 </html>
