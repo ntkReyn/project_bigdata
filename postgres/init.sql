@@ -16,6 +16,7 @@ CREATE TABLE IF NOT EXISTS stream_results (
     id SERIAL PRIMARY KEY,
     airline TEXT,
     sentiment TEXT,
+    negativereason TEXT,
     count INT,
     window_time TIMESTAMP
 );
