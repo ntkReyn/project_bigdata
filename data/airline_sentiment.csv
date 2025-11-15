@@ -4,8 +4,7 @@ id,airline_sentiment,negativereason,airline,text
 3,neutral,Unknown,Virgin America,@VirginAmerica I didn't today... Must mean I need to take another trip!
 4,negative,Bad Flight,Virgin America,"@VirginAmerica it's really aggressive to blast obnoxious ""entertainment"" in your guests' faces &amp; they have little recourse"
 5,negative,Can't Tell,Virgin America,@VirginAmerica and it's a really big bad thing about it
-6,negative,Can't Tell,Virgin America,"@VirginAmerica seriously would pay $30 a flight for seats that didn't have this playing.
-it's really the only bad thing about flying VA"
+6,negative,Can't Tell,Virgin America,"@VirginAmerica seriously would pay $30 a flight for seats that didn't have this playing. it's really the only bad thing about flying VA"
 7,positive,Unknown,Virgin America,"@VirginAmerica yes, nearly every time I fly VX this “ear worm” won’t go away :)"
 8,neutral,Unknown,Virgin America,"@VirginAmerica Really missed a prime opportunity for Men Without Hats parody, there. https://t.co/mWpG7grEZP"
 9,positive,Unknown,Virgin America,"@virginamerica Well, I didn't…but NOW I DO! :-D"
@@ -216,8 +215,7 @@ it's really the only bad thing about flying VA"
 214,negative,Cancelled Flight,Virgin America,@VirginAmerica You guys charged me $100 to reschedule a flight that was then Cancelled Flighted and are now refusing to refund it. What's the deal?
 215,negative,Customer Service Issue,Virgin America,@VirginAmerica can’t access your website from Safari on iPhone 6. Seems to work on Mac and iPad. Need iPhone to add Passbook.
 216,neutral,Unknown,Virgin America,"@VirginAmerica on iPad and iPhone, clicking the CHECKIN link in the email I received at 24hrs before flight"
-217,negative,Customer Service Issue,Virgin America,"@VirginAmerica your mobile site is broken, shows 
-""{{header.elevateUser.numOfPointsAvailable || '0' | number}} Points"", won't let me checkin"
+217,negative,Customer Service Issue,Virgin America,"@VirginAmerica your mobile site is broken, shows ""{{header.elevateUser.numOfPointsAvailable || '0' | number}} Points"", won't let me checkin"
 218,negative,Cancelled Flight,Virgin America,@VirginAmerica I was really looking forward to my flight. can you let me know when it will be rescheduled? #diehardvirgin
 219,negative,Cancelled Flight,Virgin America,"@VirginAmerica why Cancelled Flight flight VX413? One sec its delayed, on my to airport, the next its Cancelled Flightled?Gonna email or call me to reschedule?"
 220,negative,Customer Service Issue,Virgin America,@VirginAmerica I did it but there was a problem in the link from the email for check-in. thanks
@@ -337,17 +335,11 @@ it's really the only bad thing about flying VA"
 334,positive,Unknown,Virgin America,@VirginAmerica Thanks for the lovely soft views! #travel #SAN to #SFO http://t.co/CnctL7G1ef
 335,negative,Flight Booking Problems,Virgin America,@VirginAmerica I requested a mileage challenge for status several weeks ago online but haven't heard back. How do I get help with this?
 336,negative,Flight Booking Problems,Virgin America,"@VirginAmerica Just trying to book tickets to NYC and facing super fun broken styling. Don't worry, I'll keep trying :)"
-337,neutral,Unknown,Virgin America,"@VirginAmerica Many Thanks for the Follow.
-#ourprincess #freyasfund #USA #Bandie 
-Looking for Any Help😍
-💗🇬🇧💗🇺🇸💗
-🎀🌏🎀 http://t.co/UJfS9Zi6kd"
+337,neutral,Unknown,Virgin America,"@VirginAmerica Many Thanks for the Follow.#ourprincess #freyasfund #USA #Bandie Looking for Any Help😍 💗🇬🇧💗🇺🇸💗🎀🌏🎀 http://t.co/UJfS9Zi6kd"
 338,neutral,Unknown,Virgin America,"@VirginAmerica Nice, Lofty View @flyLAXairport. #SilverStatus http://t.co/F4Tp0dAwbd"
 339,negative,Customer Service Issue,Virgin America,@VirginAmerica Applied for Status Match on Feb 1. Got confirmation email same day. Still no news though. You guys have dropped ball Late Flightly 😥
 340,neutral,Unknown,Virgin America,@VirginAmerica is my new go to airline
-341,neutral,Unknown,Virgin America,"@VirginAmerica @VirginAtlantic @GMA @AmericanAir 
-Can You Help #ourprincess in need of some help in #USA 
-🎀🇬🇧🎀🇺🇸🎀 http://t.co/778AzTDaer"
+341,neutral,Unknown,Virgin America,"@VirginAmerica @VirginAtlantic @GMA @AmericanAir Can You Help #ourprincess in need of some help in #USA 🎀🇬🇧🎀🇺🇸🎀 http://t.co/778AzTDaer"
 342,positive,Unknown,Virgin America,"@VirginAmerica I adore you, and am so looking forward to my flight to Austin in two weeks."
 343,positive,Unknown,Virgin America,@VirginAmerica I was so glad it was mentioned. I took my first virgin flight a few years back and it was a transformative experience.
 344,neutral,Unknown,Virgin America,@VirginAmerica Flight Booking Problems flight to uphold my status match.  Do taxes on ticket count as earned status points?  #statusmatch #virginamerica
@@ -358,8 +350,7 @@ Can You Help #ourprincess in need of some help in #USA
 349,negative,Can't Tell,Virgin America,"@VirginAmerica seriously, though. will there not be direct flights from SFO-FLL in may???"
 350,negative,Flight Booking Problems,Virgin America,@VirginAmerica It's fine. Already done with my purchase. But you should try it. Just go most of the way through then go back 3
 351,negative,Bad Flight,Virgin America,"@virginamerica not really the experience I was hoping 4, I ws forced 2 check in a small carry on, w/ nothing but empty cabin space on board"
-352,negative,longlines,Virgin America,"@VirginAmerica
-wjere is our luggage #so slow at lax"
+352,negative,longlines,Virgin America,"@VirginAmerica wjere is our luggage #so slow at lax"
 353,neutral,Unknown,Virgin America,@VirginAmerica to jump into the #Dallas #Austin market http://t.co/SzR0pioA21
 354,negative,Customer Service Issue,Virgin America,"@VirginAmerica I spoke with a representative that offered no solution, I am a loyal customer who flies on @VirginAtlantic as well"
 355,negative,Flight Booking Problems,Virgin America,@VirginAmerica I am deeply disappointed that your birthday promo was not applied to a trip I booked mere days before I received the email
@@ -374,16 +365,14 @@ wjere is our luggage #so slow at lax"
 364,positive,Unknown,Virgin America,@VirginAmerica ok! first time flying with you tonight :)
 365,neutral,Unknown,Virgin America,@virginamerica Digging the swanky pink mood lighting during the flight from NYC to SFO.  Just needs a cabaret singer.  Think about it!
 366,neutral,Unknown,Virgin America,"@VirginAmerica Done, but I need the receipt ASAP. Could you please help? #150219-000114"
-367,negative,Can't Tell,Virgin America,"@VirginAmerica I have 2d and 3d embossed badges and patches superior to the ones you are currently using. 
-http://t.co/3fq3XElbOn"
+367,negative,Can't Tell,Virgin America,"@VirginAmerica I have 2d and 3d embossed badges and patches superior to the ones you are currently using. http://t.co/3fq3XElbOn"
 368,negative,Bad Flight,Virgin America,@VirginAmerica on VX399 from JFK to LA - dirty plane - not up to your standards.
 369,negative,Bad Flight,Virgin America,@VirginAmerica on flight VX399 headed to LA from JFK - dirtiest VA plane I have ever been on. Sad for a great airline.
 370,positive,Unknown,Virgin America,@VirginAmerica got it squared away. Someone picked up as soon as I tweeted. Should have tweeted sooner. 😉
 371,negative,Customer Service Issue,Virgin America,@VirginAmerica your Avis rental continue button doesn't work on your website to book car. Tried 4 times on phone.  This sucks!
 372,negative,Late Flight,Virgin America,@VirginAmerica delayed to10.30!!
 373,negative,Customer Service Issue,Virgin America,@VirginAmerica currently in minute 10 of being on hold with cust. service. Do I need to do anything to add a lap child to my reservation?
-374,neutral,Unknown,Virgin America,"@VirginAmerica Adds Pillows Instead of Lie-Flat Seats in First Class Arms Race 
-http://t.co/SfjDuahx9Z by @skift"
+374,neutral,Unknown,Virgin America,"@VirginAmerica Adds Pillows Instead of Lie-Flat Seats in First Class Arms Race http://t.co/SfjDuahx9Z by @skift"
 375,positive,Unknown,Virgin America,“@VirginAmerica: @KarinSLee Of course. Have fun celebrating!” Thanks! Happy Chinese New Year!
 376,positive,Unknown,Virgin America,@VirginAmerica  Flight Booking Problems last second flight for next week from SFO- to SAN any chance you want to gift me a promo code since I love you guys
 377,negative,Can't Tell,Virgin America,@VirginAmerica Comenity Bank is a joke!  Please change.  Nothing but constant problems with this bank
@@ -396,8 +385,7 @@ http://t.co/SfjDuahx9Z by @skift"
 384,negative,Customer Service Issue,Virgin America,"@VirginAmerica, I submitted a status match request a while back and still haven’t heard! I’m flying on Monday. Can you look / accelerate?"
 385,positive,Unknown,Virgin America,@VirginAmerica had me at their safety video . . . http://t.co/CqMm7nuE9m  LOVED my first cross country flight. #livewelltraveled #sytycd
 386,positive,Unknown,Virgin America,@VirginAmerica that doesn't look to fat to me! It looks yummy!
-387,neutral,Unknown,Virgin America,"@VirginAmerica CEO says #Southwest &amp; #jetblue have strayed from low cost model.
-http://t.co/96Sctomh29"
+387,neutral,Unknown,Virgin America,"@VirginAmerica CEO says #Southwest &amp; #jetblue have strayed from low cost model. http://t.co/96Sctomh29"
 388,neutral,Unknown,Virgin America,@VirginAmerica a brilliant brisk am in Boston in cue for vx363 http://t.co/rMZNIVGmg6
 389,neutral,Unknown,Virgin America,@VirginAmerica Atlantic ploughs a lone furrow in the #MiddleEast http://t.co/FVUdmh27pF @TheNationalUAE
 390,neutral,Unknown,Virgin America,@VirginAmerica Atlantic ploughs a lone furrow in the #MiddleEast http://t.co/DCoBoKN7EE @TheNationalUAE
@@ -413,8 +401,7 @@ http://t.co/96Sctomh29"
 400,negative,Bad Flight,Virgin America,@VirginAmerica I am in seat 4C and I cannot even open my laptop; and I paid extra for this seat!!
 401,neutral,Unknown,Virgin America,.@VirginAmerica If only you guys were starting those flights at the end of the month! Guess I’m still road tripping on Feb 27…
 402,positive,Unknown,Virgin America,"@VirginAmerica thanks for that. Been needing a way to make those Austin trips from DCA, and now you've come through!"
-403,neutral,Unknown,Virgin America,"@VirginAmerica announced New Route to Austin w/fares from $39/way. 
-http://t.co/gA8pbamu0C"
+403,neutral,Unknown,Virgin America,"@VirginAmerica announced New Route to Austin w/fares from $39/way. http://t.co/gA8pbamu0C"
 404,neutral,Unknown,Virgin America,@VirginAmerica Really? Sprint? I thought you guys were 'kewl'! 0_0
 405,positive,Unknown,Virgin America,@VirginAmerica this is too cool!  Never been on ur planes but now I will!!
 406,neutral,Unknown,Virgin America,@VirginAmerica you should have 39 dollar LAX-Las fares!!!
@@ -447,8 +434,7 @@ http://t.co/gA8pbamu0C"
 433,neutral,Unknown,Virgin America,@VirginAmerica Nice to see you expanding in Texas but don't forget about us here in #SanDiego. I would love to see more flights out of here!
 434,negative,Bad Flight,Virgin America,@VirginAmerica kinda sucked my earphone jack didn't work on my flight. They may want to look into that for future passengers
 435,negative,Bad Flight,Virgin America,@VirginAmerica Very poor experience. First computer problem now seat malfunction. Stuck. Missing meeting in San Diego.
-436,neutral,Unknown,Virgin America,"@VirginAmerica to battle @SouthwestAir on @DallasLoveField-@AUStinAirport route 
-http://t.co/6RLz0EBk2X via @usatoday"
+436,neutral,Unknown,Virgin America,"@VirginAmerica to battle @SouthwestAir on @DallasLoveField-@AUStinAirport route http://t.co/6RLz0EBk2X via @usatoday"
 437,positive,Unknown,Virgin America,@VirginAmerica #thankyou the DAL-AUS route makes my day!!!!
 438,positive,Unknown,Virgin America,@virginamerica awesome deals DAL-AUS for only $39 each way! https://t.co/xCVQXYkg49
 439,neutral,Unknown,Virgin America,@VirginAmerica I miss the #nerdbird in San Jose
@@ -546,8 +532,7 @@ http://t.co/6RLz0EBk2X via @usatoday"
 531,negative,Customer Service Issue,United,"@United the internet is a great thing.  I am emailing executives in your company, maybe they will respond to me in a timely manner."
 532,neutral,Unknown,United,"@united Do I need to use a Chase United Club pass for my 8yr old son, or can he come in with me on my pass?"
 533,neutral,Unknown,United,@united and what am I suppose to do with that number?
-534,negative,Can't Tell,United,"@united thats weak. See ya 👋
-Hey @VirginAmerica !!"
+534,negative,Can't Tell,United,"@united thats weak. See ya 👋 Hey @VirginAmerica !!"
 535,negative,Can't Tell,United,@united I flew back w other company since United didnt have an earlier flight
 536,neutral,Unknown,United,@united I lost a voucher that I was given in Miami aeroport on jan 26. I did not use it.
 537,negative,Customer Service Issue,United,@united I am trying to book awards for September and need flights on @aegeanairlines but they will not show even w/ many award seats availab
@@ -572,8 +557,7 @@ Hey @VirginAmerica !!"
 556,negative,Lost Luggage,United,@united then why have I not received my call back its been 3 days...it's an infant car seat how am I supposed to go anywhere with my child
 557,neutral,Unknown,United,@united thanks again for your concern. I will contact customer care upon our return from Australia.
 558,negative,Late Flight,United,@United well sitting on the ground 'on time' but waiting for a gate....again #tiredofthis
-559,positive,Unknown,United,"@united ""Airport snow removal method #22...""
-Keep up the good work folks, this is where Cessna's become 747's! http://t.co/9v8tMUsJvU"
+559,positive,Unknown,United,"@united ""Airport snow removal method #22..."" Keep up the good work folks, this is where Cessna's become 747's! http://t.co/9v8tMUsJvU"
 560,negative,Flight Booking Problems,United,"@united No, I need you guys to not over book planes. It's not a concern, I'll just travel with someone else moving forward."
 561,negative,Late Flight,United,@united A measly $50 e-certificate is not how you appreciate loyal customers after they wait 3hrs on the tarmac during UA1116. #unacceptable
 562,negative,Can't Tell,United,@united When will email address/username sign-on be available? It's been a while.
@@ -979,8 +963,7 @@ Keep up the good work folks, this is where Cessna's become 747's! http://t.co/9v
 962,neutral,Unknown,United,"@united I need the phone number to baggage claim in LAX, my mom left her phone and someone called saying they would put it there but on"
 963,negative,Customer Service Issue,United,@united I did... no response back
 964,negative,Customer Service Issue,United,@united this is atrocious customer service.
-965,neutral,Unknown,United,"@United will not have to honor absurdly low mistake fares.
-http://t.co/2Z3Jv73IlW vía @usatoday"
+965,neutral,Unknown,United,"@United will not have to honor absurdly low mistake fares. http://t.co/2Z3Jv73IlW vía @usatoday"
 966,negative,Late Flight,United,@united #albanyairport delayed departure to check bags at gate claiming space filled and walk on to open spaces a delay #poorcustomerservice
 967,negative,Cancelled Flight,United,@united you Cancelled Flighted our flights for no reason &amp; now we have been on the phone for AN HOUR on our vacation. Why?
 968,negative,Customer Service Issue,United,@united @dfpietra THAT'S your response?  Shaking my head back and forth with a tsk. You can do better-from customer service to your apology
@@ -1156,8 +1139,7 @@ http://t.co/2Z3Jv73IlW vía @usatoday"
 1138,negative,Customer Service Issue,United,"@united In 2015, United is ""unable"" to look up a flight reservation by passenger name at the YYZ check-in counter - WOW smh #customerservice"
 1139,negative,Can't Tell,United,"@united e-ticket # 0162389030167, refund request # 16866853, case id # 8465981"
 1140,negative,Customer Service Issue,United,@united been on the phone for over an hour with customer service and they can't figure it out! awesome service... NOT!
-1141,negative,Can't Tell,United,"@united
-You really know how to piss people off. Your Farelock option is fake!"
+1141,negative,Can't Tell,United,"@united You really know how to piss people off. Your Farelock option is fake!"
 1142,negative,Late Flight,United,"@united, last week shanghai to sfo 858 delay 5hrs bc of engine. today sfo-sea delay to ""sick pilot"". no compensation. They Do. Not. Care."
 1143,negative,Flight Booking Problems,United,@united only thing confusing me is why I lost priority boarding? I'm a mileage plus card member 😔
 1144,negative,Late Flight,United,@united We're hoping to hear from you actually.
@@ -1264,8 +1246,7 @@ You really know how to piss people off. Your Farelock option is fake!"
 1245,negative,Can't Tell,United,@united at this point I made it home on my own.
 1246,neutral,Unknown,United,@united I DM'd child's birthdate and full name.
 1247,positive,Unknown,United,@united Thanks for looking into this and for getting back to me via DM. Glad to hear my bag is finally being delivered to me. Thanks again!
-1248,negative,Customer Service Issue,United,"@united I would like to talk to a customer service agent about the service / non service I received on my last flight a a week or so a go.
-J"
+1248,negative,Customer Service Issue,United,"@united I would like to talk to a customer service agent about the service / non service I received on my last flight a a week or so a go. J"
 1249,negative,Cancelled Flight,United,"@united you Cancelled Flight my flight. I wait in line to get rebooked, when I'm at the front you make me go to another gate and I lose my place."
 1250,negative,Customer Service Issue,United,@united it wasn't a comment. It was a question. But thanks for your copy and paste response
 1251,neutral,Unknown,United,@united Lisa J is amazing the guy not so much.
@@ -1657,8 +1638,7 @@ J"
 1637,positive,Unknown,United,"@united you all do a wonderful job today. Got my wife, daughter, and myself from PGH to Orlando after out flight was delayed luggage and all"
 1638,negative,Customer Service Issue,United,@united customer service what's That???
 1639,negative,Customer Service Issue,United,"@united -- overFlight Booking Problems planes, Departing delayed, Returning for 'more quick fixes' &amp; breaking out attitudy-customer service? #worstairline"
-1640,neutral,Unknown,United,"@united @jeffsmisek @RobertFor39 @Fioretti2ndWard @garcia4chicago  
-FAA invest near miss on O'Hare runway last wk:http://t.co/jVJ73ZZa4A"
+1640,neutral,Unknown,United,"@united @jeffsmisek @RobertFor39 @Fioretti2ndWard @garcia4chicago  FAA invest near miss on O'Hare runway last wk:http://t.co/jVJ73ZZa4A"
 1641,negative,Customer Service Issue,United,@united Pay for a cab back to the airport to show baggage dept. my wet shirts and suit is not a viable option. 2nd time this has happened!!
 1642,negative,Can't Tell,United,"@united that's what you have said for years, you are losing customers!!!!!!"
 1643,neutral,Unknown,United,@united I am UA elite Gold and have a UA Chase pres. plus credit card.  How many EQM's do I need to get Platinum Elite!
@@ -1802,9 +1782,7 @@ FAA invest near miss on O'Hare runway last wk:http://t.co/jVJ73ZZa4A"
 1781,negative,Late Flight,United,@united I missed my connection already. Then I missed the next flight they put me on.  Now I'm going to LAX instead of Hawaii.  :(
 1782,negative,Flight Booking Problems,United,@united reservation was made last July. I want to know why I wasn't reseated. This only happens on international itineraries
 1783,negative,Customer Service Issue,United,@united line full of worried customers and guy at desk says so sorry you will have to take care of your problems Late Flightr I don't have time.
-1784,negative,Customer Service Issue,United,"@united 
-
-There must be 100 people waiting in line for customer service at DEN to deal with flight Cancelled Flightations."
+1784,negative,Customer Service Issue,United,"@united There must be 100 people waiting in line for customer service at DEN to deal with flight Cancelled Flightations."
 1785,negative,Lost Luggage,United,"@united, American never had my bags apparently. United never switched them over. Had to go back to United Baggage Service."
 1786,negative,Late Flight,United,@united unacceptable. 403 was 90 min Late Flight for a 'missing screw' our flight to Tucson left before we even landed
 1787,negative,Late Flight,United,"@united CMH gate staff a disaster..#3345 overbooked, no volunteers, no boarding, 20 min Late Flight trying to figure out issue #bringbackrealstaff"
@@ -2043,11 +2021,7 @@ There must be 100 people waiting in line for customer service at DEN to deal wit
 2020,positive,Unknown,United,@united @suntoshi I still like you united airlines
 2021,negative,Cancelled Flight,United,"@united 2100$ ticket,12h biz trvl,no wifi.Missed con flt,next one#24h,missed meeting,7$ food voucher,hotel chkout#12,flt#5,no wifi#hotel"
 2022,negative,Lost Luggage,United,"@united still missing my luggage, was promised someone would call, no call so far, flight from Shanghai to DC with connecting flight in ORD"
-2023,neutral,Unknown,United,"@united are you looking for European Flight attendants for Paris or Frankfurt?
-
-Best, 
-
-Fabrice"
+2023,neutral,Unknown,United,"@united are you looking for European Flight attendants for Paris or Frankfurt? Best,  Fabrice"
 2024,negative,Cancelled Flight,United,@united you Cancelled Flightled my flight without notification?
 2025,negative,Late Flight,United,"@united since I have an international connection at 9am, I'm hoping for the same thing!"
 2026,neutral,Unknown,United,@united need help. Never got tickets. Conf #ggqzqd
@@ -2500,8 +2474,7 @@ Fabrice"
 2473,negative,Customer Service Issue,United,@united Extremely disappointed in #Flight6831. United left crew and pssgrs stranded in rain @ gate with no cover. Left Psngrs 2 depart plane
 2474,negative,Customer Service Issue,United,"@united besides landing the plane, overall customer service experience has been poor. Late Flight and rude workers plus missing luggage"
 2475,neutral,Unknown,United,@united I was just calling the Global Services help desk so via phone.
-2476,neutral,Unknown,United,"@united on final. Pls don't let my connection leave!!!
-Conf# NPBHD0 http://t.co/eWXwXiDTfX"
+2476,neutral,Unknown,United,"@united on final. Pls don't let my connection leave!!! Conf# NPBHD0 http://t.co/eWXwXiDTfX"
 2477,negative,Can't Tell,United,"fuck you, @united and your shitty fucking information http://t.co/scQUjbvsTA"
 2478,positive,Unknown,United,@united you're good. Thank you!
 2479,neutral,Unknown,United,@united how much does a ski bag cost to check?  Bag contains 1 pair is skis and one pair of poles
@@ -2543,13 +2516,10 @@ Conf# NPBHD0 http://t.co/eWXwXiDTfX"
 2515,negative,Customer Service Issue,United,"@united I was, just very surprised it took over 15 mins. Never experienced anything like that on 1K number"
 2516,neutral,Unknown,United,@united 757 N33103 taxies @bhx_official departing as UA26 to Newark Liberty Airport http://t.co/IALiCEH2FT
 2517,negative,Can't Tell,United,@united I'm afraid not... I fly or service every week and I'm just unhappy..spend too much money to be unhappy
-2518,positive,Unknown,United,"@united thank you.
-It's my daughters 13th bd party w/proj. weather cond, it doesn't look promising.
-Please assist with earlier flts to Cmh?"
+2518,positive,Unknown,United,"@united thank you. It's my daughters 13th bd party w/proj. weather cond, it doesn't look promising. Please assist with earlier flts to Cmh?"
 2519,negative,Late Flight,United,"@united if you're going to Cancelled Flight flights today, do everyone a favor and get on it now. Don't stall the inevitable."
 2520,negative,Late Flight,United,@united your plane's been waiting at the Gate for two hours with all passengers onboard in their cramped seats. Yuck.
-2521,negative,Late Flight,United,"@united 
-Flight UA1665 got delayed 2 hours due to a mechanical issue...could use a free drink or 3 to make up for this inconvenience"
+2521,negative,Late Flight,United,"@united Flight UA1665 got delayed 2 hours due to a mechanical issue...could use a free drink or 3 to make up for this inconvenience"
 2522,negative,Customer Service Issue,United,@united his cell phone record needs to be checked to see who did conversed with. I trust the FAA can handle this better.
 2523,negative,Can't Tell,United,@united 15.99 for wireless?  Was 6.99 epic #fail . #greedy #piggy you are the worst!
 2524,negative,Can't Tell,United,@united have you inspected the picture? routine aircraft check while on his cell phone? What will the FAA &amp; NYT say ? http://t.co/bNgpli8JT6
@@ -2559,8 +2529,7 @@ Flight UA1665 got delayed 2 hours due to a mechanical issue...could use a free d
 2528,negative,Can't Tell,United,@united 132 characters does not cover my reasons I'm afraid
 2529,negative,Customer Service Issue,United,@united while busy on his cell phone ???
 2530,negative,Can't Tell,United,"@united really, fill out a form about my flight experience? I sent an email to the 1K email address."
-2531,negative,Late Flight,United,"@united: ""Left gate 5 minutes early."" 
-My thoughts: ""That doesn't count if you sit on the Tarmac for a half hour."" #comeonpeople"
+2531,negative,Late Flight,United,"@united: ""Left gate 5 minutes early."" My thoughts: ""That doesn't count if you sit on the Tarmac for a half hour."" #comeonpeople"
 2532,positive,Unknown,United,@united will the kudos to capt. Herman be relayed to his chief pilot or should I be emailing someone?
 2533,negative,Late Flight,United,@united on flight 1665 but it's not departing! Website says delayed due to operational difficulties-what does that mean?
 2534,negative,Flight Attendant Complaints,United,"@united do you teach your gate agents 2 lie? Or do they just learn on their own? There was overhead space for my bag,  didn't have to check"
@@ -2633,8 +2602,7 @@ My thoughts: ""That doesn't count if you sit on the Tarmac for a half hour."" #c
 2601,negative,Customer Service Issue,United,@united That is not what your reservations desk just told me.  They said there were plenty of seats
 2602,negative,Flight Booking Problems,United,"@united very exasperating I'm having a difficult time with Flight Booking Problems as the error message says you're undergoing maintenance. Really, now?"
 2603,positive,Unknown,United,.@united This flight attendant was extremely helpful to a woman who had a hard time walking. Very touching!
-2604,neutral,Unknown,United,"@united @SCVPools 
-Please call me at 310-795-2210."
+2604,neutral,Unknown,United,"@united @SCVPools Please call me at 310-795-2210."
 2605,negative,Lost Luggage,United,@united lax29108m make it happen please else on a cruise with no luggage tomorrow
 2606,negative,Flight Attendant Complaints,United,@united no I did not make connection.  Your stellar employee Vicky Thomas refused to board me even though 23 empty seats on plane
 2607,negative,Lost Luggage,United,@united Of course. That was the start of my trip 3 wks. ago. Its gone further downhill on my return.
@@ -2677,10 +2645,7 @@ Please call me at 310-795-2210."
 2644,negative,Flight Attendant Complaints,United,"@united assistance with what, the attitude of your staff no matter which airport we are at?"
 2645,neutral,Unknown,United,@united Sure.  Follow for a sec and I will.
 2646,positive,Unknown,United,@united Thank you so much for your help with my birthday trip! Tickets are confirmed! :-)
-2647,neutral,Unknown,United,"@united airlines.
-On flight UA 1669.
-Need to make UA 3781.
-Can u hold the plane for us?"
+2647,neutral,Unknown,United,"@united airlines. On flight UA 1669. Need to make UA 3781. Can u hold the plane for us?"
 2648,positive,Unknown,United,@united thank you.
 2649,negative,Damaged Luggage,United,@united when will I hear? Guitar was damaged in December. I use my guitar to earn a living. Get your act together!
 2650,negative,Customer Service Issue,United,@united I was on hold for over 20 minutes and was talking to one of your employees. I asked him for name or id # and he hung up in my face!
@@ -2806,9 +2771,7 @@ Can u hold the plane for us?"
 2770,negative,Late Flight,United,@united this delay of flight UA4636 has been painful. I sure hope it doesn't cause me or my luggage) to miss my UA82 flight to New Delhi!
 2771,negative,Can't Tell,United,@united Yes but unbelievable.  Should have a free fare lock
 2772,positive,Unknown,United,“@united: @BattierCCIpuppy Your puppy is so cute. We look forward to having both of you on board. Thanks for the high five. ^EY” 👏👏
-2773,negative,Late Flight,United,"@united worst AIRLINE 
-BEWARE THEY DO NOT MAINTAIN THERE PLAIN 
-BEEN ON THE RUNWAY THE PAST 4 HOURS!!!/"
+2773,negative,Late Flight,United,"@united worst AIRLINE BEWARE THEY DO NOT MAINTAIN THERE PLAIN BEEN ON THE RUNWAY THE PAST 4 HOURS!!!/"
 2774,negative,Can't Tell,United,"@united it should be free like other airlines! Again, it’s not 1997 anymore."
 2775,negative,Late Flight,United,@united Existing reservation is fine. I was talking about no longer having an 0600 CMH-ORD option. 0638 gets me in too Late Flight.
 2776,neutral,Unknown,United,@united please tell me I'm going to make my connecting flight from O'hare to #STL #SouthBendINWhere 🙏 http://t.co/qGwK10dEwv
@@ -2962,8 +2925,7 @@ BEEN ON THE RUNWAY THE PAST 4 HOURS!!!/"
 2924,negative,Can't Tell,United,@united Did somebody say flight upgrade?
 2925,neutral,Unknown,United,@united DM sent.
 2926,negative,Late Flight,United,@united how is it tripitPro has accurate delayed dept. times and 2hours Late Flightr I hear the same from you? Just curious
-2927,negative,Can't Tell,United,"@united I can tell you. Your airline has lost mine and my families business. 
-This day and age message through Twitter travels fast."
+2927,negative,Can't Tell,United,"@united I can tell you. Your airline has lost mine and my families business. This day and age message through Twitter travels fast."
 2928,negative,Customer Service Issue,United,@united trying to reach him for the number. At last they have him on standbye and gave him 1 meal voucher for a potential 2 day standbye!
 2929,negative,Customer Service Issue,United,@united this is very disappointing. This is about customer service.
 2930,negative,Late Flight,United,"@united boarded 6373 on time, deplaned, and now 100 minutes delay. No transparency during. Can't wait to give up my gold status for AA."
@@ -3233,9 +3195,7 @@ This day and age message through Twitter travels fast."
 3194,negative,Damaged Luggage,United,@united broke my suitcase &amp; refuses to give me a repair estimate. http://t.co/zOUOwgv3Q6
 3195,negative,Flight Attendant Complaints,United,@united How do you have a scheduled flight WITH NO CREW? Is there a competent person working at this airline?
 3196,negative,Late Flight,United,@united can you help 689 in Chicago get to a gate. Freezing on a runway seems like a crappy thing to do at 9pm
-3197,neutral,Unknown,United,"@united @HiltonWorldwide @Caravannyc @MaysvilleNYC 
-Let's go! Join me on my first trip back to NYC…as a tourist: 
-http://t.co/egaEjtRGLb"
+3197,neutral,Unknown,United,"@united @HiltonWorldwide @Caravannyc @MaysvilleNYC Let's go! Join me on my first trip back to NYC…as a tourist: http://t.co/egaEjtRGLb"
 3198,negative,Customer Service Issue,United,@united thanks KP.  What's going on w/4840 tonight.  Bad update online and phone. Can't u give customers good info. Not waste their time?!
 3199,positive,Unknown,United,@united just got my lost Kindle in the mail! Thanks again.
 3200,neutral,Unknown,United,@united is z and d code airfare refundable?
@@ -3312,8 +3272,7 @@ http://t.co/egaEjtRGLb"
 3271,negative,longlines,United,@united Your boarding process sucks. You should learn from @SouthwestAir
 3272,negative,Late Flight,United,"@united ouch, delays due to mechanical issues again QRO will have to wait! Yall seem to be falling apart #alwaysdelayed #unitedfail"
 3273,negative,Lost Luggage,United,@united my fingers are crossed that they are more capable of getting baggage from point A-&gt;B than United Airlines!
-3274,negative,Late Flight,United,"@united What happened this afternoon? Huge amt of incoming planes to SFO delayed over 1-2 hours.
-Frustrating!"
+3274,negative,Late Flight,United,"@united What happened this afternoon? Huge amt of incoming planes to SFO delayed over 1-2 hours. Frustrating!"
 3275,negative,longlines,United,@united not about being on my way or impatience on my part...it's about you being untruthful and not having proper systems in place
 3276,negative,Customer Service Issue,United,@united can you maybe have more than 1 person working customer service desk in Houston airport? Line 3 rows deep 1 person working
 3277,positive,Unknown,United,"@united I'll stick with my United flight. Thanks, though. Effort is much appreciated."
@@ -3434,8 +3393,7 @@ Frustrating!"
 3392,negative,Bad Flight,United,@united your Airbus a320 seats are awful. They don't recline.
 3393,negative,Can't Tell,United,@united to DM you I have to follow you and I'm not doing that. Plus they're no more options. That's why I had to fly with you. #epicfail
 3394,positive,Unknown,United,@United  great way to start my vacation with an on time departure! Looking forward to my global first class suite!
-3395,neutral,Unknown,United,"@united I have 2d and 3d embossed badges and patches superior to the ones you are currently using. 
-http://t.co/3fq3XElbOn"
+3395,neutral,Unknown,United,"@united I have 2d and 3d embossed badges and patches superior to the ones you are currently using. http://t.co/3fq3XElbOn"
 3396,negative,Late Flight,United,@united - why am I sitting on this plane for an hour after scheduled takeoff without a cloud in the sky? #keepusguessing #isthisyourfirsttry
 3397,positive,Unknown,United,@united Thank you for responding so promptly! I look forward to the 240 kms drive to the office to file a claim.
 3398,positive,Unknown,United,@united that would be great
@@ -3453,8 +3411,7 @@ http://t.co/3fq3XElbOn"
 3410,neutral,Unknown,United,@united @perfectomobile You really shouldn't use the word 'crashing.' Just sayin'.
 3411,negative,Late Flight,United,@united airlines delayed our flight on the way to Chicago and leaving Chicago. Next time @Delta it is.
 3412,negative,Customer Service Issue,United,@united They inquire and then do nothing about it...pretend they’re interested. Responded to your DM and no response back...
-3413,neutral,Unknown,United,"@united need assistance to change flight to get to an ailing parent..
-have flight leaving Tuesday need to change ASAP to sooner #custserv"
+3413,neutral,Unknown,United,"@united need assistance to change flight to get to an ailing parent.. have flight leaving Tuesday need to change ASAP to sooner #custserv"
 3414,negative,Can't Tell,United,@united I must stop my relationship with you. You've become greedy and heartless and our long term relationship is over
 3415,negative,Customer Service Issue,United,@united your customer service is lacking and you owe me a @GoPro camera. I also appreciate not being interrupted every time I speak Thanks
 3416,neutral,Unknown,United,@united you need to follow me I order for me to DM....
@@ -3504,10 +3461,8 @@ have flight leaving Tuesday need to change ASAP to sooner #custserv"
 3460,negative,Customer Service Issue,United,@united I’ve filled out the form twice. No email. I have a lost item code. Can you verify it was received?
 3461,positive,Unknown,United,@united message sent. Thank you!
 3462,negative,Can't Tell,United,@united that's what I have been told. But refund doesn't really makeup for the inconvenience caused and the missed meeting... Does it?
-3463,neutral,Unknown,United,"@united THIS IS THE  YEAR FOR VAN GOGH FANS TO VISIT EUROPE
-http://t.co/e1EOfthgAJ"
-3464,neutral,Unknown,United,"@united @AmericanAir THIS IS THE  YEAR FOR VAN GOGH FANS TO VISIT EUROPE
-http://t.co/e1EOfthgAJ"
+3463,neutral,Unknown,United,"@united THIS IS THE  YEAR FOR VAN GOGH FANS TO VISIT EUROPE http://t.co/e1EOfthgAJ"
+3464,neutral,Unknown,United,"@united @AmericanAir THIS IS THE  YEAR FOR VAN GOGH FANS TO VISIT EUROPE http://t.co/e1EOfthgAJ"
 3465,negative,Late Flight,United,"@united please explain why I need to pay bag fees twice, equally $1200, because a delayed flight resulted in bags being rechecked overnight?"
 3466,negative,Cancelled Flight,United,"@united - watched the entire #UNCvsDUKE game on the Tarmac before Cancelled Flighting my flight because crew timed out, right before my 4hr flight...."
 3467,negative,Late Flight,United,"@united reFlight Booking Problems would not have made me reach on time for my meeting. Also didn't wanna take a chance, Booked myself on @etihad instead"
@@ -3569,13 +3524,7 @@ http://t.co/e1EOfthgAJ"
 3523,neutral,Unknown,United,@united @UnitedFlyerHD @United_Airline N26902 Dreamliner leaves London Heathrow. @B787fans http://t.co/aI0Yzwt8Za
 3524,negative,Bad Flight,United,@united ^GJ flight 1101 didn't have wifi even though it was promised to by your ground crew. #AnotherDisappointment
 3525,negative,Late Flight,United,@united ^GJ I will. You have to agree that 7+ hours Late Flight for arrival is unacceptable. I only hope and pray my bag is here.
-3526,negative,Can't Tell,United,"@united : Unhappy with United's service?
-
-Read Ralph Nader's open letter to UAL's CEO.
-
-Leave a comment or RT.
-
-http://t.co/O0745APIau"
+3526,negative,Can't Tell,United,"@united : Unhappy with United's service? Read Ralph Nader's open letter to UAL's CEO. Leave a comment or RT. http://t.co/O0745APIau"
 3527,neutral,Unknown,United,@united ok. Can I DM you the info?
 3528,negative,Customer Service Issue,United,@united the best seats should be for paying customers and we should get to board first #badcustomerservice
 3529,negative,Can't Tell,United,@united this happens all the time.  United pilots are always in the exit row.  America treats there customers better than their employees.
@@ -3708,24 +3657,16 @@ http://t.co/O0745APIau"
 3656,negative,Can't Tell,United,@united I knew I should've flew @VirginAmerica lol
 3657,negative,Bad Flight,United,"@united, UA1641 EWR-MCO 17 Feb wifi never connected but allowed me to purchase access twice &amp; charged me. Who do I need to file claim with?"
 3658,positive,Unknown,United,@united thnx
-3659,positive,Unknown,United,"@united 
-I will admit, you've been rather good to me over the years.
-You've still got me hooked.
-(for now!)
-Peace."
+3659,positive,Unknown,United,"@united I will admit, you've been rather good to me over the years. You've still got me hooked. (for now!)Peace."
 3660,positive,Unknown,United,@united it's kinda funny. No worries.
 3661,negative,Flight Attendant Complaints,United,@united My feedback and concerns via your site aren’t going to improve my poor airport experiences.
 3662,negative,Customer Service Issue,United,@united just dropped bags at Newark. Your desk guy was the rudest customer facing person I have met. Even my two children were shocked!
 3663,positive,Unknown,United,@united great. Looking forward to your response to my DM then
-3664,negative,Late Flight,United,"@united It was quite enjoyable. 😊 
-
-Except now he's stuck on the runway in Houston. 😕"
+3664,negative,Late Flight,United,"@united It was quite enjoyable. 😊 Except now he's stuck on the runway in Houston. 😕"
 3665,positive,Unknown,United,@united thank you for getting our daughter home when @americanair Cancelled Flightled all their flights to Nashville
 3666,positive,Unknown,United,"@united thanks for the re-upgrade to 1st class. It may be a 45 min flight, but it is appreciated."
 3667,negative,Bad Flight,United,"@united makes total sense, except flight wasn't full :) I've got empty seats around me &amp; overheads were more than half open when I boarded."
-3668,neutral,Unknown,United,"“@united: @ItsAaronChriz Sorry to hear about your flight. Do you need help reFlight Booking Problems?”
-
-👎"
+3668,neutral,Unknown,United,"“@united: @ItsAaronChriz Sorry to hear about your flight. Do you need help reFlight Booking Problems?”👎"
 3669,negative,Can't Tell,United,@united now we are trying to get to San Juan from Chicago O'Hare. Having lots of problems. May get a standby flight.
 3670,neutral,Unknown,United,"@united Alright, thank you. Is there a page that says the routes you have for each aircraft? Specifically the 787."
 3671,negative,Cancelled Flight,United,"@united well sorta....we r trying to get to Aquadilla, PR but only 1 flight goes there a day. All are booked. UA Cancelled Flighted our flight to NJ"
@@ -3974,9 +3915,7 @@ Except now he's stuck on the runway in Houston. 😕"
 3914,negative,Customer Service Issue,United,@united Y do U not reply to customer refund forms??????????? #unitedairlines
 3915,negative,Customer Service Issue,United,@united &lt;&lt;&lt;&lt;&lt;------- shoddy customer service. Of no use whatsoever. #unitedairline
 3916,negative,Customer Service Issue,United,@united &lt;&lt;&lt;&lt;&lt;&lt;-------- do not reply to emails?
-3917,negative,Customer Service Issue,United,"@united it has now been 16 days since i applied for my compensation?
-
-Y have i had no correspondence"
+3917,negative,Customer Service Issue,United,"@united it has now been 16 days since i applied for my compensation? Y have i had no correspondence"
 3918,neutral,Unknown,United,@united it sucks not having the money to book a flight to see the love of my life. 2600 miles away.
 3919,negative,Customer Service Issue,United,@united submitted customer care form Jan 7th. Still no response. A little longer then 7 - 10 business days
 3920,negative,Customer Service Issue,United,"@united @laurasbrown5 Clearly United lives in the stone age. Some people don't need computers, make your site better for tablets and phones"
@@ -4078,8 +4017,7 @@ Y have i had no correspondence"
 4016,neutral,Unknown,United,@united is there a referral program for the Milageplus explorer card?
 4017,negative,Can't Tell,United,@united how else would I know it was denied?
 4018,neutral,Unknown,United,@united obviously
-4019,negative,Customer Service Issue,United,"@united You allow shady 3rd party services to sell your tickets and then refuse to help the customer, who's left holding the bag.
-#flyunited"
+4019,negative,Customer Service Issue,United,"@united You allow shady 3rd party services to sell your tickets and then refuse to help the customer, who's left holding the bag. #flyunited"
 4020,negative,Customer Service Issue,United,@united Hours on the phone...hung up on...all I want is to be on a different flight (same day) that has an open seat. #greatservice
 4021,negative,Can't Tell,United,@united which now has maintenance issues with an undetermined amount of time until the mechanics even arrive
 4022,neutral,Unknown,United,@united I sent an email describing my experience. Looking forward to a follow up to hopefully make it right.
@@ -4133,8 +4071,7 @@ Y have i had no correspondence"
 4070,neutral,Unknown,United,"@united We were told by United to ""carry over/carry back"" for the refund."
 4071,neutral,Unknown,United,"@united no, I had to leave for work. Would have not been possible. So I would love to have this replaced now"
 4072,negative,Customer Service Issue,United,I feel completely cheated @united. I read your commitment to customer service via website and def did not get service suggested there.
-4073,negative,Can't Tell,United,"@united @annricord 0162431184663.
-3 of your agents said we would be refunded. Agents said United should never have sold us the ticket."
+4073,negative,Can't Tell,United,"@united @annricord 0162431184663. 3 of your agents said we would be refunded. Agents said United should never have sold us the ticket."
 4074,negative,Flight Attendant Complaints,United,@united if your air traffic crew could get their shit together no one would notice the rudeness of the ground staff
 4075,negative,Can't Tell,United,@united IT-problems with the link? #3thparty
 4076,negative,Late Flight,United,"@United: I feel very well informed. yes, the flight is indeed delayed. Thank you. http://t.co/FuCHZRZjg5"
@@ -4207,8 +4144,7 @@ Y have i had no correspondence"
 4143,negative,Customer Service Issue,United,@united thanks! We would like an apology and a full refund. Please confirm when we will receive.
 4144,neutral,Unknown,United,"@united Hi, can you email me here so i can share the details? Thanks. frank@postsecret.com"
 4145,negative,Flight Booking Problems,United,@united But I got a bad exchange rate so want my money back. Please can you refund without penalty.
-4146,negative,Late Flight,United,"@united My flight UA1159 to Denver for #RMOUG15 has been re-cheduled 5 times.
-If I am no show, you'll know why! Ridiculous."
+4146,negative,Late Flight,United,"@united My flight UA1159 to Denver for #RMOUG15 has been re-cheduled 5 times. If I am no show, you'll know why! Ridiculous."
 4147,negative,Customer Service Issue,United,@united you're just using automated  responses and don't have the decency to actually care/respond
 4148,negative,Customer Service Issue,United,@united JT the issue is with missed connections early gate closings and zero concern from customer service
 4149,negative,Late Flight,United,"@united here I was thinking how I could say so many nice things after getting upgraded, but then you delayed my flight... It's ok!"
@@ -4327,8 +4263,7 @@ If I am no show, you'll know why! Ridiculous."
 4262,negative,Lost Luggage,United,@united Miserable trip ... lost bag Sat... found Mon... lost again... shipping 2nd day ground Tues... might have it for return flight home
 4263,negative,Customer Service Issue,United,@united spending the afternoon @ Mia. Not your fault.  No lounge? Very inconvenient.
 4264,negative,Customer Service Issue,United,@united costumer service sucks! Waiting for a week for a response
-4265,neutral,Unknown,United,"@united Is there a way to get  a copy of Feb's edition of Hemisphere
-magazine with out flying?"
+4265,neutral,Unknown,United,"@united Is there a way to get  a copy of Feb's edition of Hemisphere magazine with out flying?"
 4266,negative,Flight Booking Problems,United,@united I somehow think I'm going to be stuck paying for a hotel room in Denver without winter clothes on my dime.  I guess we'll see.
 4267,neutral,Unknown,United,"@united I normally ask people to put on headphones...but not toddlers. Maybe planes should have a ""kid"" section (near the back) ;)"
 4268,negative,Customer Service Issue,United,@united of course I need help.  I've been DMing you ladies and gents all day. Your only solution is hope for the best and LAX.
@@ -4359,8 +4294,7 @@ magazine with out flying?"
 4293,negative,Late Flight,United,@united sat at airport for 5 hrs still sitting at gate..  Sigh
 4294,neutral,Unknown,United,@united actually we did not consider she might have made a mistake. She did not complain beyond that she indicated it on her reservation.
 4295,negative,Late Flight,United,@united Gold Star for united- change my flight- miss all connections- but can't accommodate me until a MUCH Late Flightr arrival time-Not HAPPY!
-4296,negative,Can't Tell,United,"@united's first-class #cockup
-http://t.co/oh7CFv7DHR"
+4296,negative,Can't Tell,United,"@united's first-class #cockup http://t.co/oh7CFv7DHR"
 4297,neutral,Unknown,United,@united all day travel. #swag #ijustwanttosleep
 4298,positive,Unknown,United,@united Thank you for the new Club at O'Hare. Very comfortable. You made the difficult weather days proficient and enjoyable.
 4299,neutral,Unknown,United,@united Filled in the form you sent the link to on 29.1.15 and then either 9 or 10.2.15
@@ -4447,8 +4381,7 @@ http://t.co/oh7CFv7DHR"
 4380,negative,Lost Luggage,Southwest,@SouthwestAir its flight #218 of that matters to you all. Hell next we all won't get our luggage properly transferred #facepalm #smh
 4381,negative,Customer Service Issue,Southwest,@SouthwestAir your phone service sucks
 4382,neutral,Unknown,Southwest,"@SouthwestAir my flight at BWI is delayed and I will miss my flight in Denver, is there a way to find out if they will hold the plane?"
-4383,positive,Unknown,Southwest,"@SouthwestAir ""Airport snow removal method #22..""
-Keep up the good work folks, this is where Cessna's become 747's! http://t.co/7poFSXOjSY"
+4383,positive,Unknown,Southwest,"@SouthwestAir ""Airport snow removal method #22..""Keep up the good work folks, this is where Cessna's become 747's! http://t.co/7poFSXOjSY"
 4384,negative,Flight Attendant Complaints,Southwest,@SouthwestAir are people in an exit row still supposed to give their verbal approvals? I was never asked on the flight I'm on...
 4385,negative,Late Flight,Southwest,@SouthwestAir and now our arrival is delayed nearly 5hours. Yeah an entire day in an airport is not my idea of a stress less vacation #fail
 4386,negative,Cancelled Flight,Southwest,@SouthwestAir oh and now your company has caused us to lose an entire day of our vacation in Cancun. De Boarded waiting for another plane
@@ -4575,10 +4508,7 @@ Keep up the good work folks, this is where Cessna's become 747's! http://t.co/7p
 4507,neutral,Unknown,Southwest,"@SouthwestAir quick question - i bought wifi for my phone, do I have to buy it again on my tablet? I have 9 hours left on my trip"
 4508,positive,Unknown,Southwest,@southwestair cool shot of the moon and one of your fleet http://t.co/kl9BAiMES6
 4509,neutral,Unknown,Southwest,"@SouthwestAir Hello SWA, Who is your POC for partnerships with nonprofit organizations in BWI area?"
-4510,negative,Lost Luggage,Southwest,"@SouthwestAir hey remember that time you lost my husbands bags? I do. 
-
-#filmjobnoequipment 
-#nowarmclothes"
+4510,negative,Lost Luggage,Southwest,"@SouthwestAir hey remember that time you lost my husbands bags? I do. #filmjobnoequipment #nowarmclothes"
 4511,positive,Unknown,Southwest,@SouthwestAir Looking forward to flying once again with #SWA on Friday! The #LUV airline. #DTW #MDW #TUS
 4512,positive,Unknown,Southwest,@SouthwestAir I love this airline so much! Thanks so much! The service is great! The snacks are amazing! Everything is outstanding thanks!!
 4513,negative,Lost Luggage,Southwest,@SouthwestAir you need to redeem yourself. I lost respect for you tonight #lostbags #filmjobnoequipment
@@ -4706,8 +4636,7 @@ Keep up the good work folks, this is where Cessna's become 747's! http://t.co/7p
 4635,neutral,Unknown,Southwest,"@SouthwestAir is it possible to add travel arranged by my employer to my upcoming travel? I can retrieve a reservation, but that's it."
 4636,neutral,Unknown,Southwest,@SouthwestAir  I sent a email to customer relations and I will be calling tomorrow.
 4637,neutral,Unknown,Southwest,@SouthwestAir how do get priority seating after you already paid for the flight
-4638,negative,Can't Tell,Southwest,"@SouthwestAir 10+ people pre boarded
-Only 1 needed a wheel chair off the plane... Was NOT the case boarding"
+4638,negative,Can't Tell,Southwest,"@SouthwestAir 10+ people pre boarded Only 1 needed a wheel chair off the plane... Was NOT the case boarding"
 4639,neutral,Unknown,Southwest,@SouthwestAir Is it possible to add companion to only the 2nd leg of a trip?
 4640,positive,Unknown,Southwest,@SouthwestAir best airline 👌
 4641,positive,Unknown,Southwest,@southwestair #netneutrality Nice to see you prioritize Internet traffic to your own streaming service over other web sites!
@@ -4809,8 +4738,7 @@ Only 1 needed a wheel chair off the plane... Was NOT the case boarding"
 4737,neutral,Unknown,Southwest,@SouthwestAir to start daily #B737-700 flights from #Columbus OH to #Oakland on 8AUG #avgeek
 4738,neutral,Unknown,Southwest,@SouthwestAir to start 2xdaily #B737-700 flights from #Columbus OH to #Boston @BostonLogan on 8AUG #avgeek
 4739,negative,Customer Service Issue,Southwest,"@SouthwestAir Password reset email is incredibly slow to arrive today. Checked spam folder, too. Web site says a few minutes, but 15? :|"
-4740,neutral,Unknown,Southwest,"@SouthwestAir @ClinicPolly 
-Thank you-- I may have already responded but was 8UXZJ2"
+4740,neutral,Unknown,Southwest,"@SouthwestAir @ClinicPolly Thank you-- I may have already responded but was 8UXZJ2"
 4741,negative,Customer Service Issue,Southwest,@SouthwestAir I've had TERRIBLE service in three airports in 10 hours. Glad they don't care we kind of need to be home. #SellMyPointsSoon
 4742,positive,Unknown,Southwest,@SouthwestAir Thanks! Confirmation number just DMed. Appreciate any help!
 4743,negative,Customer Service Issue,Southwest,@SouthwestAir on hold for 15+ min...no estimated answer time. Any help here?
@@ -4833,8 +4761,7 @@ Thank you-- I may have already responded but was 8UXZJ2"
 4760,negative,Customer Service Issue,Southwest,@SouthwestAir customer service is rude and bothered by our calls. Has no idea what is going on and sighed heavily on the phone. Unbelievable
 4761,negative,Customer Service Issue,Southwest,"@SouthwestAir @nelsjeff, 3.5 hrs. Late Flightr (no human interaction), ended up $'ing a completely new flight - so last flight out didn't sell out."
 4762,negative,Lost Luggage,Southwest,@SouthwestAir loses baggage a day ago and still has no idea or interest in finding it? ALL items for new job in that bag! Unacceptable.
-4763,neutral,Unknown,Southwest,"@SouthwestAir 
-How do I get a companion pass??? Thanks,  Lin S"
+4763,neutral,Unknown,Southwest,"@SouthwestAir How do I get a companion pass??? Thanks,  Lin S"
 4764,positive,Unknown,Southwest,@SouthwestAir  Just sent DM. Thanks for your attentiveness to this matter.
 4765,negative,Bad Flight,Southwest,@SouthwestAir how about fixing the wifi!  3rd flight where it's not working. 800 series plane so not like it's an old plane.
 4766,negative,Can't Tell,Southwest,"@SouthwestAir #1687 MDW-SAN. Like most flights, if I'm watching free TV it works but won't hardly access any websites - including your own."
@@ -4895,8 +4822,7 @@ How do I get a companion pass??? Thanks,  Lin S"
 4821,neutral,Unknown,Southwest,@SouthwestAir I know that not everybody on flight can be 1st time flying. But in case it is people in front deplane 1st not from the back?!?
 4822,neutral,Unknown,Southwest,@SouthwestAir may I have my Companion pass please.
 4823,positive,Unknown,Southwest,"@SouthwestAir kudos to the crew of flight 1050 to GRR for making a very special memory for a sweet young passenger, and her Momma. Well done"
-4824,negative,Flight Booking Problems,Southwest,"@SouthwestAir thank you : 8UXZJ2
-Paid for early bird and sat in back"
+4824,negative,Flight Booking Problems,Southwest,"@SouthwestAir thank you : 8UXZJ2 Paid for early bird and sat in back"
 4825,positive,Unknown,Southwest,@SouthwestAir All good... beers and #oscars2015 ar #DIA
 4826,neutral,Unknown,Southwest,"@SouthwestAir yes, please #companionpass"
 4827,negative,longlines,Southwest,@SouthwestAir @fly2midway 45 minute wait for my bags. Just what I needed on a Sunday night.
@@ -5085,12 +5011,9 @@ Paid for early bird and sat in back"
 5010,negative,Customer Service Issue,Southwest,"@SouthwestAir I tried for 5hrs to contact SW! Twitter, fb, phone, email w/ no reply. 24hrs Late Flightr u respond, what could you do at this point?"
 5011,neutral,Unknown,Southwest,@SouthwestAir Arkansas Gov. plans to sign Governor SB-202 that legalizes discrimination of LGBT.Can you lend your voice to a state boycott?
 5012,neutral,Unknown,Southwest,"@SouthwestAir if I am a rapid awards member, does my points apply after I have taken my round trip?"
-5013,positive,Unknown,Southwest,"@SouthwestAir was in a line a mile long at sky harbor this morning. Your staff was courteous and expeditious.  Thank you. 
-#onechildfourbags"
+5013,positive,Unknown,Southwest,"@SouthwestAir was in a line a mile long at sky harbor this morning. Your staff was courteous and expeditious.  Thank you. #onechildfourbags"
 5014,negative,Customer Service Issue,Southwest,@SouthwestAir I have never had such awful customer service and conflicting service. Outrageous.
-5015,positive,Unknown,Southwest,"@SouthwestAir 
-
-Just realized I had the wrong departure date. Thanks for making changes easy!"
+5015,positive,Unknown,Southwest,"@SouthwestAir Just realized I had the wrong departure date. Thanks for making changes easy!"
 5016,neutral,Unknown,Southwest,"@SouthwestAir Also, will Southwest have any other specials like the one they are running now?"
 5017,positive,Unknown,Southwest,@SouthwestAir last week I flew from DAL to LAX. You got us in almost an hour early. Thank You.
 5018,neutral,Unknown,Southwest,@SouthwestAir will the Daytona 500 be available on free TV?
@@ -5153,9 +5076,7 @@ Just realized I had the wrong departure date. Thanks for making changes easy!"
 5075,neutral,Unknown,Southwest,@SouthwestAir flying flight 3130 tomorrow at 7:20 from PBI- I have boarding position C-42. Is flight overbooked? Have funeral to attend!
 5076,negative,Customer Service Issue,Southwest,@SouthwestAir we are having a real issue trying to get thru to you.  On hold for 2 hours &amp; got disconnected!  Please help!
 5077,negative,Customer Service Issue,Southwest,@SouthwestAir now on hold for 2.5 hours waiting to speak to someone about my Cancelled Flightled flight from Philly to ORL
-5078,neutral,Unknown,Southwest,"@SouthwestAir better travel photos:
-My Kindle e-book Easy Tips guide http://t.co/7dM2J8H97M:
-http://t.co/xeDeckGMW5 http://t.co/frGhglMkqF"
+5078,neutral,Unknown,Southwest,"@SouthwestAir better travel photos: My Kindle e-book Easy Tips guide http://t.co/7dM2J8H97M: http://t.co/xeDeckGMW5 http://t.co/frGhglMkqF"
 5079,negative,Cancelled Flight,Southwest,@SouthwestAir what happend? Why did flight #668 get Cancelled Flighted for 2/22..I was on hold for over an hour and no help
 5080,negative,Late Flight,Southwest,"@SouthwestAir that's gotta be a new record: 4 hrs in the air, 11 hrs waiting and 0 bags delivered to destination."
 5081,positive,Unknown,Southwest,@SouthwestAir Thank you for your help Adam and to the awesome gate agents at B12 in LAS for getting us home!
@@ -5256,8 +5177,7 @@ http://t.co/xeDeckGMW5 http://t.co/frGhglMkqF"
 5176,negative,Cancelled Flight,Southwest,@SouthwestAir had to Cancelled Flight my flight because my Cavalli calves was interfering with the onboard equipment.
 5177,positive,Unknown,Southwest,@SouthwestAir Gate attendant at McCarran C16 (Vegas to Dallas) went above and beyond. After a long day of frustration it was welcome.
 5178,negative,Bad Flight,Southwest,@SouthwestAir please refund my ticket. What a terrible experience. #southwestfail
-5179,positive,Unknown,Southwest,"@SouthwestAir three cheers to your Denver staff. Don't know if we 
-will get out but they're keeping us smiling. http://t.co/RX8z53M7yy"
+5179,positive,Unknown,Southwest,"@SouthwestAir three cheers to your Denver staff. Don't know if we will get out but they're keeping us smiling. http://t.co/RX8z53M7yy"
 5180,negative,Customer Service Issue,Southwest,@SouthwestAir Conf #8Q6MFD Finally got through &amp; told the flight was completely booked.  That would have been better info than advise 2 call
 5181,negative,Lost Luggage,Southwest,@SouthwestAir lost bag on flight to Vegas. Now to El Paso. Going to Dallas love. Gate attendant said see if can coordinate to get it to Love
 5182,negative,Late Flight,Southwest,@SouthwestAir breaking my heart at BWI 9 hrs @business
@@ -5267,8 +5187,7 @@ will get out but they're keeping us smiling. http://t.co/RX8z53M7yy"
 5186,negative,Cancelled Flight,Southwest,@SouthwestAir I had to switch airlines and eat the difference (which was not insubstantial) and Cancelled Flight all plans for sat &amp; sun :(
 5187,positive,Unknown,Southwest,@SouthwestAir Great #BlackHistoryMonth commercial! Thx! #ATL #singer #musician #life #BlackLivesMatter
 5188,negative,Can't Tell,Southwest,@SouthwestAir well I'm not sure what there is you can do.  The bad experience had already been had
-5189,neutral,Unknown,Southwest,"@SouthwestAir is now recruiting for Fall 15, Spring 16 Internships. 
-2/23/15, 5- 6pm @JindalCMC Davidson Auditorium(1.118) #JSOM #UTDallas"
+5189,neutral,Unknown,Southwest,"@SouthwestAir is now recruiting for Fall 15, Spring 16 Internships. 2/23/15, 5- 6pm @JindalCMC Davidson Auditorium(1.118) #JSOM #UTDallas"
 5190,negative,Cancelled Flight,Southwest,@SouthwestAir There is no way that I am getting back on a plane with your airline. I will be calling to get a refund. As I drive 17 hrs home
 5191,negative,Customer Service Issue,Southwest,"@SouthwestAir AH - did DM, no reply. On hold now over 2hrs. Just spent over $1k to get a United flight tmrw to get home. #lame"
 5192,positive,Unknown,Southwest,@SouthwestAir replacing @vitaminwater with beer! Bravo!👏👏 Cheers! 🍻🍻 @Leinenkugels @DosEquis @FatTire
@@ -5339,8 +5258,7 @@ will get out but they're keeping us smiling. http://t.co/RX8z53M7yy"
 5257,negative,Cancelled Flight,Southwest,"@SouthwestAir Sure was,  with @Delta  looks like I'll make my birthday celebration after all."
 5258,negative,Lost Luggage,Southwest,@SouthwestAir   Where the heck are the bags for Chicago 408. It has been an hour
 5259,neutral,Unknown,Southwest,"@SouthwestAir departing MDW it's cold 26F, windy with snow on the ground for sunny and 70F las vegas  @LASairport http://t.co/2IR7ynMBdU"
-5260,neutral,Unknown,Southwest,"@SouthwestAir can u follow so I can DM a confirmation number I need confirmed to Cancelled Flight?
-I will call to confirm Monday for refund"
+5260,neutral,Unknown,Southwest,"@SouthwestAir can u follow so I can DM a confirmation number I need confirmed to Cancelled Flight? I will call to confirm Monday for refund"
 5261,negative,Can't Tell,Southwest,@SouthwestAir no. Told to call cust service on monday
 5262,negative,Customer Service Issue,Southwest,@SouthwestAir why are the ticketing lines in Las Vegas so unorganized??  Mass craziness. Half of the ticketing stations unmanned.
 5263,neutral,Unknown,Southwest,@SouthwestAir I actually could use a slight tweak to my return - not leaving here now til Monday -any way I can skip calling for that?
@@ -5544,8 +5462,7 @@ I will call to confirm Monday for refund"
 5461,neutral,Unknown,Southwest,@SouthwestAir it was 3472
 5462,negative,Late Flight,Southwest,@SouthwestAir flight to San Diego is delayed per usual.. take me home!
 5463,neutral,Unknown,Southwest,@SouthwestAir how do I find travel funds I have available to use f/ past changed flights? don't see an option in my account.
-5464,positive,Unknown,Southwest,"@SouthwestAir @FortuneMagazine 
-great news."
+5464,positive,Unknown,Southwest,"@SouthwestAir @FortuneMagazine great news."
 5465,positive,Unknown,Southwest,@SouthwestAir is making dreams come true with their #DestinationDragons scavenger hunt! You can win a chance to see Imagine Dragons! Go!
 5466,neutral,Unknown,Southwest,"@SouthwestAir my father was kind enough to offer to pay for a hotel, but I can't use this coupon if he pays from FL. no help?"
 5467,negative,Can't Tell,Southwest,@SouthwestAir every other city on your nationwide sale has fabulous fares. Why nothing from Buffalo? except for 2 cities?
@@ -5586,8 +5503,7 @@ great news."
 5502,positive,Unknown,Southwest,"@SouthwestAir we had early bird, and it was great. Your employees were awesome. It was 3 passengers who killed the buzz."
 5503,negative,Bad Flight,Southwest,@SouthwestAir I am absolutely sick of 300s and no wifi!
 5504,negative,Flight Booking Problems,Southwest,@SouthwestAir when will airfare be available through December of this year? I have 2 major trips coming up and I'm anxious to book them!
-5505,positive,Unknown,Southwest,"@SouthwestAir Ahah😃💕🎵 That is why
-I love SW✈❗(^^)❤"
+5505,positive,Unknown,Southwest,"@SouthwestAir Ahah😃💕🎵 That is why I love SW✈❗(^^)❤"
 5506,neutral,Unknown,Southwest,@SouthwestAir is the contest over for Destination Dragons? I want to try to do everything I can to go.
 5507,positive,Unknown,Southwest,@SouthwestAir you are lucky to have people like Annamarie and Norris at BWI. I hope they get recognized for excellent cust. service
 5508,neutral,Unknown,Southwest,@SouthwestAir So the upcoming RR changes/Deval is trying to tell me not to fly southwest anymore because i am loyal so far. i get it.
@@ -5731,8 +5647,7 @@ I love SW✈❗(^^)❤"
 5646,positive,Unknown,Southwest,@SouthwestAir SEA to DEN. South Sound Volleyball team on its way! http://t.co/tN5cXCld6M
 5647,neutral,Unknown,Southwest,.@SouthwestAir I will if you can see about moving up my Brother in laws graduation to the 6th.  Thanks.
 5648,neutral,Unknown,Southwest,@SouthwestAir will do. Thank you.
-5649,neutral,Unknown,Southwest,"@SouthwestAir If there are any Imagine Dragons tickets left for tomorrow at 
-@VelourLive here in Utah I would love to go I am available! :)"
+5649,neutral,Unknown,Southwest,"@SouthwestAir If there are any Imagine Dragons tickets left for tomorrow at @VelourLive here in Utah I would love to go I am available! :)"
 5650,neutral,Unknown,Southwest,@SouthwestAir so the fares I see for flights in fall are the ABSOULUTELY LOWEST they will be?
 5651,negative,Can't Tell,Southwest,"@SouthwestAir No no no. SWA low fares and on-time service is great! But manufactured quirkiness? Mmm, not so much. Signed, -CaptiveAudience"
 5652,negative,Can't Tell,Southwest,@SouthwestAir will you please start offering services out of @triflight and @AshevilleAir to other airports.. Have to drive 3-4 hrs to use u
@@ -5848,8 +5763,7 @@ I love SW✈❗(^^)❤"
 5762,negative,Late Flight,Southwest,@SouthwestAir last 5 flights have all consistently ran behind schedule what's up with that ??
 5763,neutral,Unknown,Southwest,@SouthwestAir how about some sweet promo code to help me visit my family!!!.... Please!!!... Lol
 5764,negative,Bad Flight,Southwest,"@SouthwestAir my sinuses had to contend with two painful landings rather than one, and we missed a preregistration window. Beyond frustrated"
-5765,negative,Customer Service Issue,Southwest,"@SouthwestAir Why do airlines change ticket prices in the middle of the day
-#annoyed"
+5765,negative,Customer Service Issue,Southwest,"@SouthwestAir Why do airlines change ticket prices in the middle of the day #annoyed"
 5766,negative,Late Flight,Southwest,@SouthwestAir #delayed again! You're killing me Late Flightly!
 5767,positive,Unknown,Southwest,@SouthwestAir LOVE IMAGINE DRAGONS  SO MUCH I EOULD DIE IF I GOT TICKETS
 5768,neutral,Unknown,Southwest,@SouthwestAir I WANNAA GO TO THE VEGAS SHOW SO BAD ID DOO ANYTHING #DestinationDragons
@@ -6021,8 +5935,7 @@ I love SW✈❗(^^)❤"
 5934,negative,Customer Service Issue,Southwest,@SouthwestAir Is your BWI-SJD service seasonal? Wasn't part of extension. Called intl desk. They didn't know. Want to fly in Sept on Sat.
 5935,positive,Unknown,Southwest,@SouthwestAir Scott is the best!!! Thank yo from the bottom of my heart💕#DestinationDragons with friends in LA @HayleyMad see u Friday
 5936,neutral,Unknown,Southwest,@SouthwestAir why must the 4:45pm nonstop BOS-BNA flight stop running after August 7???
-5937,neutral,Unknown,Southwest,"@SouthwestAir I have 2d and 3d embossed badges and patches superior to the ones you are currently using. 
-http://t.co/3fq3XElbOn"
+5937,neutral,Unknown,Southwest,"@SouthwestAir I have 2d and 3d embossed badges and patches superior to the ones you are currently using. http://t.co/3fq3XElbOn"
 5938,positive,Unknown,Southwest,@SouthwestAir now flying non stop CMH-OAK has me daydreaming about a trip to the bay...especially in this weather. #OhioProbz
 5939,negative,Customer Service Issue,Southwest,@SouthwestAir  3 flights yesterday; no treats but nuts and pretzels. Also no origami in the magazine. New policies? #OldPoliciesWayBetter
 5940,negative,Lost Luggage,Southwest,@SouthwestAir is awful. They have lost my bag and aren't providing any info. This is day 3 and nothing. #WORSTAIRLINEEVER
@@ -6057,11 +5970,9 @@ http://t.co/3fq3XElbOn"
 5969,positive,Unknown,Southwest,@SouthwestAir thank you!!! #bringbacktheluvtordu #miami #directflights
 5970,neutral,Unknown,Southwest,"@SouthwestAir I can easily get to the Atlanta show, I just need tickets, help?!"
 5971,negative,Late Flight,Southwest,"@SouthwestAir, got ""duped"" w/ a connection on 1st flight (sneaky), now u won't give me a seat on an earlier flight w/ availability. Shameful"
-5972,neutral,Unknown,Southwest,"@SouthwestAir adding direct flights from #Columbus to #Oakland, @BostonLogan 
-http://t.co/p8Vcz4XTHM via @DispatchAlerts"
+5972,neutral,Unknown,Southwest,"@SouthwestAir adding direct flights from #Columbus to #Oakland, @BostonLogan http://t.co/p8Vcz4XTHM via @DispatchAlerts"
 5973,positive,Unknown,Southwest,@SouthwestAir That would be great. Thank you! I'll send it over when you follow.
-5974,neutral,Unknown,Southwest,"@SouthwestAir boarding passes now compatible with #iPhone #Passbook 
-http://t.co/1ESmMnIZEk"
+5974,neutral,Unknown,Southwest,"@SouthwestAir boarding passes now compatible with #iPhone #Passbook http://t.co/1ESmMnIZEk"
 5975,negative,Customer Service Issue,Southwest,"@SouthwestAir, real sincere apology! Makes my day! Glad to know flying mail is more important than me. Never flying SW again! #badservice"
 5976,negative,Customer Service Issue,Southwest,@SouthwestAir I already follow you and can't DM because u need to follow me back
 5977,neutral,Unknown,Southwest,@SouthwestAir My DM won't go through but it is 261633561838. Please let me know if you need anything else.
@@ -6205,8 +6116,7 @@ http://t.co/1ESmMnIZEk"
 6115,positive,Unknown,Southwest,@southwestair thanks for taking it up a notch!! leinenkugels #craftbeer #goodflight @ Norfolk… http://t.co/TgSLjjN6g0
 6116,neutral,Unknown,Southwest,@SouthwestAir i cant look up my confirmation number at the moment on mobile. the email is no longer in my inbox
 6117,negative,Customer Service Issue,Southwest,@SouthwestAir I receive bad customer service and ended up spending several hundred dollars to accommodate my family during each cxl flight
-6118,positive,Unknown,Southwest,"@SouthwestAir thank u for not leaving me 
-@me nice job running thru the airport to catch your connecting flight"
+6118,positive,Unknown,Southwest,"@SouthwestAir thank u for not leaving me @me nice job running thru the airport to catch your connecting flight"
 6119,negative,Customer Service Issue,Southwest,@SouthwestAir it keeps saying that mobile boarding passes are unavailable despite having checked in and everything
 6120,positive,Unknown,Southwest,@SouthwestAir thanks so much for making my night 😀 cannot wait for my trip next week! http://t.co/NbZ45jCd1r
 6121,negative,Customer Service Issue,Southwest,@SouthwestAir your app isnt working and i take off in like two hours help
@@ -6258,8 +6168,7 @@ http://t.co/1ESmMnIZEk"
 6167,negative,Customer Service Issue,Southwest,"@SouthwestAir are bicycles that the 62"", 50lbs criteria free or bikes are automatically $75/each way? The FAQ page isn't very clear to me."
 6168,neutral,Unknown,Southwest,@SouthwestAir is there a way to DM you?
 6169,negative,Customer Service Issue,Southwest,@SouthwestAir was wondering is there a reason why customer service is so busy? Been on hold past few days for many hours No answer Help plz
-6170,negative,longlines,Southwest,"@SouthwestAir Open more kiosks at 
-Austin-Bergstrom. Three lanes to service a line of 50 people? Really?"
+6170,negative,longlines,Southwest,"@SouthwestAir Open more kiosks at Austin-Bergstrom. Three lanes to service a line of 50 people? Really?"
 6171,positive,Unknown,Southwest,@SouthwestAir @ PIT- Gate A1! Big shout out to the lady trying to track him down!
 6172,positive,Unknown,Southwest,@SouthwestAir - I just had a great experience with your customer service team. Thank you! #LuvSW A-list
 6173,positive,Unknown,Southwest,@SouthwestAir is there a way to know who checked my bag on the curb? She was awesome!!! And want to be sure she gets a high five!
@@ -6277,8 +6186,7 @@ Austin-Bergstrom. Three lanes to service a line of 50 people? Really?"
 6185,positive,Unknown,Southwest,@SouthwestAir love..luv the addition of the passbook option.
 6186,positive,Unknown,Southwest,@SouthwestAir thanks for the follow up. So glad to get my bag back.
 6187,neutral,Unknown,Southwest,"@SouthwestAir Denver to Phoenix, I think we're finally getting ready to take off."
-6188,neutral,Unknown,Southwest,"@southwestair is your companion pass broken today? 
-purchase.error.INVALID_LOYALTY_MEMBER_ACCOUNT_STATUS (SW900001-vyiL1XKlROG24fS-918j_A)"
+6188,neutral,Unknown,Southwest,"@southwestair is your companion pass broken today? purchase.error.INVALID_LOYALTY_MEMBER_ACCOUNT_STATUS (SW900001-vyiL1XKlROG24fS-918j_A)"
 6189,negative,Customer Service Issue,Southwest,@SouthwestAir if you guys fuck this up again  I will never forgive you
 6190,negative,Customer Service Issue,Southwest,@SouthwestAir I'm smashed into a window by the giant guest sitting next to me. #4386. No way this guy should have been given 1 seat.
 6191,negative,Bad Flight,Southwest,@SouthwestAir I'm miserable on your Orlando to Vegas nonstop right now. How big must a guest be for u to require 2 seats?  I'm in 1A btw.
@@ -6467,8 +6375,7 @@ purchase.error.INVALID_LOYALTY_MEMBER_ACCOUNT_STATUS (SW900001-vyiL1XKlROG24fS-9
 6374,positive,Unknown,Southwest,"@SouthwestAir Once again, I was able to change my flight without any fees... oh and the two free checked bags.  Best airline ever."
 6375,positive,Unknown,Southwest,@SouthwestAir A wonderfully nice agent in Austin helped us out. Wish I remembered her name to give proper kudos.
 6376,positive,Unknown,Southwest,@SouthwestAir hot stewardess flipped me off
-6377,negative,Lost Luggage,Southwest,"@SouthwestAir where are our bags?
-We have a tv show to film!!"
+6377,negative,Lost Luggage,Southwest,"@SouthwestAir where are our bags? We have a tv show to film!!"
 6378,negative,Cancelled Flight,Southwest,"@SouthwestAir I am scheduled for the morning, 2 days after the fact, yes..not sure why my evening flight was the only one Cancelled Flightled"
 6379,negative,longlines,Southwest,"@SouthwestAir update 35 minutes into this pilot has turned off a/c. No longer freezing, but we are enjoying waiting for reload of all bags"
 6380,neutral,Unknown,Southwest,@SouthwestAir snow forecasted for Raleigh NC tomorrow night. Need to know if there's a plan to reschedule flights into RDU Wednesday night
@@ -6621,8 +6528,7 @@ We have a tv show to film!!"
 6527,neutral,Unknown,Southwest,@SouthwestAir When are you going to be flying in and out of Nashville? The Deicer is in. Are you short on planes and is it tomorrow morning?
 6528,positive,Unknown,Southwest,"@SouthwestAir your social media team just said ""sorry"". Thankfully submitting a complaint got resolution from an amazing rep who called."
 6529,neutral,Unknown,Southwest,"@SouthwestAir I'm scheduled to come back tomorrow, finally but I don't know SWA hasn't flown out of @Fly_Nashville yet but @Delta has"
-6530,negative,Cancelled Flight,Southwest,"@SouthwestAir flight 1613 Cancelled Flightled??? My wife is stuck in Phoenix on the way from slc to san
-Thanks a lot southwest!"
+6530,negative,Cancelled Flight,Southwest,"@SouthwestAir flight 1613 Cancelled Flightled??? My wife is stuck in Phoenix on the way from slc to san Thanks a lot southwest!"
 6531,negative,Customer Service Issue,Southwest,@SouthwestAir I never got a Cancelled Flightlation text from this morning either #bushleague or a number to call #weakservice
 6532,positive,Unknown,Southwest,@SouthwestAir knows whats up! That #BlackHistoryMonth commercial. Just another thing to add to reasons why I fly with #SouthWestAirlines
 6533,negative,Can't Tell,Southwest,@SouthwestAir too Late Flight now
@@ -6839,8 +6745,7 @@ Thanks a lot southwest!"
 6744,positive,Unknown,Southwest,@SouthwestAir nice work on the update!
 6745,negative,Customer Service Issue,Southwest,@SouthwestAir you guys there? Are we on hour 2 of our phone hold at 3am bc of volume or short staffing?
 6746,negative,Customer Service Issue,Southwest,"@SouthwestAir its cool that my bags take a bit longer, dont give me baggage blue balls-turn the carousel on, tell me it's coming, then not."
-6747,positive,Unknown,Delta,"@JetBlue Yesterday on my way from EWR to FLL just after take-off. :)
-#wheelsup #JetBlueSoFly http://t.co/9xkiy0Kq2j"
+6747,positive,Unknown,Delta,"@JetBlue Yesterday on my way from EWR to FLL just after take-off. :) #wheelsup #JetBlueSoFly http://t.co/9xkiy0Kq2j"
 6748,neutral,Unknown,Delta,@JetBlue I hope so because I fly very often and would hate to change airlines.
 6749,neutral,Unknown,Delta,"@JetBlue flight 1041 to Savannah, GA"
 6750,negative,Flight Attendant Complaints,Delta,"@JetBlue They weren't on any flight, they just came Late Flight. Your JetBlue employee just informed us!"
@@ -6851,9 +6756,7 @@ Thanks a lot southwest!"
 6755,negative,Can't Tell,Delta,@JetBlue 2 aisles of empty #evermoreroom seats and we can't move bc we didn't pay?! #nonsense #Waste #JetBlue #jetbluebos #cheap
 6756,negative,Flight Attendant Complaints,Delta,@JetBlue ’s Marty St. George really has zero clue. How does he still have a job? #nobaggagefees http://t.co/tjDzaMHPEw
 6757,negative,Flight Booking Problems,Delta,@JetBlue they booked me for tomorrow. It's $250 higher. My 1st reservation is PGFRYZ. Get me on standby list 4 tonight would help.
-6758,neutral,Unknown,Delta,"@JetBlue Submitted, hoping for quick decision, tied to another donation we just received:
-Proposal- 27th Annual Gala
-Org- Boundless Readers"
+6758,neutral,Unknown,Delta,"@JetBlue Submitted, hoping for quick decision, tied to another donation we just received: Proposal- 27th Annual Gala. Org- Boundless Readers"
 6759,negative,Cancelled Flight,Delta,@JetBlue but by Cancelled Flighting my flight and pushing me to the next day I'd lose $150 hotel which was why I was trying to get a same-day flight.
 6760,positive,Unknown,Delta,@JetBlue thank you for the information.
 6761,neutral,Unknown,Delta,@JetBlue did you know that suicide is the second leading cause of death among teens 10-24
@@ -6887,16 +6790,12 @@ Org- Boundless Readers"
 6789,negative,Can't Tell,Delta,"@jetblue having trouble signing in to TrueBlue today, despite right credentials. getting ""We are not able to sign you in"" msg."
 6790,positive,Unknown,Delta,@JetBlue wouldn't mind paying for the snacks but no $ for tix :-) Great job guys!
 6791,neutral,Unknown,Delta,@JetBlue flight 462 to Boston delayed due to weather in Tampa?
-6792,neutral,Unknown,Delta,"More like BaeJet Airways, amirite?
-
-“@JetBlue: @terrybrokebad Right back at ya!”"
+6792,neutral,Unknown,Delta,"More like BaeJet Airways, amirite?“@JetBlue: @terrybrokebad Right back at ya!”"
 6793,neutral,Unknown,Delta,@JetBlue are @AskAmex Amex Plat holders provided access or a credit in the Airspace Lounge in JKF?
 6794,neutral,Unknown,Delta,"@JetBlue many thanks, as always your employees are professional and courteous. Whenever I have the option, you are my go-to airlines."
 6795,neutral,Unknown,Delta,@JetBlue Come on and provide service from Destin- Fort Walton Beach Airport
 6796,negative,Customer Service Issue,Delta,@JetBlue I appreciate the credit for my troubles but the lack of personal response troubles me.
-6797,neutral,Unknown,Delta,"@CatfoodBeerGlue you'll enjoy this. 
-
-“@JetBlue: Our fleet's on fleek. http://t.co/2thC9RKURT”"
+6797,neutral,Unknown,Delta,"@CatfoodBeerGlue you'll enjoy this.  “@JetBlue: Our fleet's on fleek. http://t.co/2thC9RKURT”"
 6798,neutral,Unknown,Delta,@JetBlue yer deals never seem to include NYC--&gt;PDX or NYC--&gt;PGH...wish they did!
 6799,neutral,Unknown,Delta,@JetBlue Airline trouble this winter &amp; not getting good customer service? contact http://t.co/aQjn4HwNaC  we negotiate resolutions for You!
 6800,neutral,Unknown,Delta,@JetBlue thank you! Headed from LBC to OAK !
@@ -7021,8 +6920,7 @@ Org- Boundless Readers"
 6919,neutral,Unknown,Delta,"@JetBlue can your people working this contact me, I have a project in the works."
 6920,neutral,Unknown,Delta,"@JetBlue When chging flight, isit possible to pay the fare difference in dollars when the ticket was bought completely via point redemption?"
 6921,negative,Late Flight,Delta,"@JetBlue we're home, you guys recovered, now we can laugh about it and the extra day in barbados. Will you open Cuba soon?"
-6922,negative,Can't Tell,Delta,"@JetBlue Am I the only one who had to look that up? I must be getting old...
- #damn"
+6922,negative,Can't Tell,Delta,"@JetBlue Am I the only one who had to look that up? I must be getting old...#damn"
 6923,neutral,Unknown,Delta,Oh yeah? RT @JetBlue: Our fleet's on fleek. http://t.co/FTv2NWWQF1”
 6924,neutral,Unknown,Delta,@JetBlue when are you guys flying it froward in the Bahamas.
 6925,neutral,Unknown,Delta,“@JetBlue: Our fleet's on fleek. http://t.co/M2wSg2olgo” -_-
@@ -7032,9 +6930,7 @@ Org- Boundless Readers"
 6929,neutral,Unknown,Delta,"Listen, im not gonna deny this but... RT @JetBlue: Our fleet's on fleek. http://t.co/eNXV64RkbU"
 6930,neutral,Unknown,Delta,👉🚪RT @JetBlue: Our fleet's on fleek. http://t.co/dSDEbodmEL
 6931,positive,Unknown,Delta,@JetBlue you found my camera!  Thank you!  You rock!
-6932,neutral,Unknown,Delta,"“@JetBlue: Our fleet's on fleek. http://t.co/g97HAbyeP5”
-
-SMH"
+6932,neutral,Unknown,Delta,"“@JetBlue: Our fleet's on fleek. http://t.co/g97HAbyeP5” SMH"
 6933,neutral,Unknown,Delta,how sway how “@JetBlue: Our fleet's on fleek. http://t.co/tQc96tKcI9”
 6934,neutral,Unknown,Delta,um wut “@JetBlue: Our fleet's on fleek. http://t.co/M4UWcPxtXJ”
 6935,neutral,Unknown,Delta,Alright... Someone has to stop this! RT @JetBlue: Our fleet's on fleek. http://t.co/lchVJoliDg
@@ -7115,19 +7011,9 @@ SMH"
 7010,negative,Late Flight,Delta,@JetBlue we haven't even gotten off the plane yet! I can't afford to miss my flight back to Boston! Ugh.
 7011,negative,Can't Tell,Delta,"Sorry for unfollowing, @JetBlue"
 7012,negative,Late Flight,Delta,@JetBlue We just landed in Vegas but not allowed to leave the plane just yet. Thanks for making me miss my flight at 1 pm. #fustrated
-7013,positive,Unknown,Delta,"@JetBlue loved the service from the staff at Newark today. 
-
-Good service goes along way.
-
-I appreciate your preciation  
-
-Nj ✈️Tampa 
-
-🔵🔵🔵"
+7013,positive,Unknown,Delta,"@JetBlue loved the service from the staff at Newark today. Good service goes along way. I appreciate your preciation Nj ✈️Tampa 🔵🔵🔵"
 7014,neutral,Unknown,Delta,Why lord why“@JetBlue: Our fleet's on fleek. http://t.co/nlzS1Ehnee”
-7015,neutral,Unknown,Delta,"“@JetBlue: Our fleet's on fleek. http://t.co/pa7dCjXlzL”
-
-C'mon fam😭😭 just. No. Ok?"
+7015,neutral,Unknown,Delta,"“@JetBlue: Our fleet's on fleek. http://t.co/pa7dCjXlzL” C'mon fam😭😭 just. No. Ok?"
 7016,neutral,Unknown,Delta,@JetBlue lord...
 7017,neutral,Unknown,Delta,You don't have to do this “@JetBlue: Our fleet's on fleek. http://t.co/iZfofgjzUi”
 7018,neutral,Unknown,Delta,@JetBlue when can we start Flight Booking Problems flights for November?
@@ -7193,9 +7079,7 @@ C'mon fam😭😭 just. No. Ok?"
 7078,positive,Unknown,Delta,I always look forward to JB RT @JetBlue: @bostongarden :) Looking forward to welcoming you onboard! 💙
 7079,neutral,Unknown,Delta,BLOCK ME BIKE RT @JetBlue: Our fleet's on fleek. http://t.co/2z3hGqPRSG
 7080,negative,Late Flight,Delta,@JetBlue any info on why flight 704 from SJU to JFK is already delayed 2 1/2 hours?
-7081,neutral,Unknown,Delta,"@JetBlue Awww man...but I need to buy this ticket today and be home the 1st of March
-
-Where do I go for this...or can you assist me ?"
+7081,neutral,Unknown,Delta,"@JetBlue Awww man...but I need to buy this ticket today and be home the 1st of March Where do I go for this...or can you assist me ?"
 7082,negative,Can't Tell,Delta,“@JetBlue: Our fleet's on fleek. http://t.co/vw2v8GVnGq” 😐😑
 7083,neutral,Unknown,Delta,@JetBlue which type plane is flt 1065 from bos to rsw?
 7084,neutral,Unknown,Delta,😕 RT @JetBlue: Our fleet's on fleek. http://t.co/4KH92mKoTZ
@@ -7208,22 +7092,16 @@ Where do I go for this...or can you assist me ?"
 7091,positive,Unknown,Delta,“@JetBlue: Our fleet's on fleek. http://t.co/3kVkd8yRxa” + lol wow
 7092,neutral,Unknown,Delta,@JetBlue with 3 kids and 11 days 340 + doesn't work and it's months in advance
 7093,neutral,Unknown,Delta,*On the brink of bankruptcy. “@JetBlue: Our fleet's on fleek. http://t.co/01ldxn3QqQ”
-7094,neutral,Unknown,Delta,"@JetBlue ....you haven't got me just yet
-
-Can a 1 way LAX-NYC cost me under 190?"
+7094,neutral,Unknown,Delta,"@JetBlue ....you haven't got me just yet Can a 1 way LAX-NYC cost me under 190?"
 7095,neutral,Unknown,Delta,X__x RT @JetBlue: Our fleet's on fleek. http://t.co/xxppZo88j1
-7096,neutral,Unknown,Delta,"@JetBlue Or...
-
-....how about a 1way LAX-NYC(area) under 190?! Is this possible ?"
+7096,neutral,Unknown,Delta,"@JetBlue Or....how about a 1way LAX-NYC(area) under 190?! Is this possible ?"
 7097,neutral,Unknown,Delta,“@JetBlue: Our fleet's on fleek. http://t.co/CXTTxV2lMP” 😒
 7098,neutral,Unknown,Delta,“@JetBlue: Our fleet's on fleek. http://t.co/ar0VayLmFc” Really Jet Blue? Lmao
 7099,positive,Unknown,Delta,Lovely! RT @JetBlue: Our fleet’s on fleek. http://t.co/Hi6Fl1AX9E
 7100,neutral,Unknown,Delta,@JetBlue Sent.
 7101,negative,Can't Tell,Delta,“@JetBlue: Our fleet's on fleek. http://t.co/5xGnyHGAFz” this is what I hate
 7102,neutral,Unknown,Delta,@JetBlue looking to for low rates bos to Vegas in Late Flight June for 3 kids and myself for a sporting event. Any deals or breaks
-7103,neutral,Unknown,Delta,"@JetBlue Tell me more 😳...
-
-Because I need a 1 way to NYC, and I might choose you"
+7103,neutral,Unknown,Delta,"@JetBlue Tell me more 😳... Because I need a 1 way to NYC, and I might choose you"
 7104,neutral,Unknown,Delta,RT “@JetBlue: Our fleet's on fleek. http://t.co/FRAqDPKyga” @hellobrittNEY_
 7105,negative,Can't Tell,Delta,RT @JetBlue: Our fleet's on fleek. http://t.co/NfjAuW16vZ&lt;--....😕
 7106,neutral,Unknown,Delta,STAHP!! 😂😂😭😭😭😭 RT @JetBlue Our fleet's on fleek. http://t.co/BM2unRaOnI
@@ -7255,9 +7133,7 @@ Because I need a 1 way to NYC, and I might choose you"
 7132,negative,Can't Tell,Delta,.@JetBlue this is enough for me to stop flying JetBlue.
 7133,negative,Can't Tell,Delta,STOP. USING.THIS.WORD. IF. YOU'RE. A. COMPANY. RT @JetBlue: Our fleet's on fleek. http://t.co/Fd2TNYcTrB
 7134,positive,Unknown,Delta,“@JetBlue: Our fleet's on fleek. http://t.co/JMnkJ6Bmc2” Jet Blizzue in the hizouse.
-7135,negative,Can't Tell,Delta,"“@JetBlue: Our fleet's on fleek. http://t.co/Lv9HwQDK9A”
-
-Can't fly you anymore, we had a good run ✌️"
+7135,negative,Can't Tell,Delta,"“@JetBlue: Our fleet's on fleek. http://t.co/Lv9HwQDK9A” Can't fly you anymore, we had a good run ✌️"
 7136,positive,Unknown,Delta,"@JetBlue Very excited, for the first time this Sunday, March 1 I get to fly #JetBlue flight 123 #Mint from JFK. Looking forward :-)"
 7137,neutral,Unknown,Delta,Okay. RT @JetBlue: Our fleet's on fleek. http://t.co/6H5uEZH4cv
 7138,negative,Can't Tell,Delta,“@JetBlue: Our fleet's on fleek. http://t.co/yZH4ZRQM0i” really JetBlue? #fleek?!!! 😂😂😂 hell no... Yall petty
@@ -7596,8 +7472,7 @@ Can't fly you anymore, we had a good run ✌️"
 7471,negative,Flight Attendant Complaints,Delta,@JetBlue no baggage crew update!  Your staff is incompetent with no answers after 2 hours....
 7472,neutral,Unknown,Delta,@JetBlue the whole plane. Flight 561 from LGA to PBI http://t.co/4Ktk2hsmGy
 7473,negative,Lost Luggage,Delta,@JetBlue is blaming @TSA for flight 584 luggage debacle!  #luggagegate
-7474,negative,Can't Tell,Delta,"@JetBlue Yoga it is. TV service seems to be down though :-(
-I look forward to that do much!"
+7474,negative,Can't Tell,Delta,"@JetBlue Yoga it is. TV service seems to be down though :-(I look forward to that do much!"
 7475,neutral,Unknown,Delta,"@JetBlue w/ edits: Dear @msbgu , your MBAs need better benefits. They should work for us. How can we meet them?"
 7476,neutral,Unknown,Delta,@JetBlue of course I am!!✈️
 7477,negative,Can't Tell,Delta,@JetBlue You failed. That's the answer. Please don't justify otherwise.
@@ -7915,8 +7790,7 @@ I look forward to that do much!"
 7789,neutral,Unknown,Delta,@JetBlue Yup. MCO. 82°!!
 7790,neutral,Unknown,Delta,@JetBlue Hey! Check it out!! It's snowing in Boston. Who could have predicted such a thing?! http://t.co/ufyxXkIsa3
 7791,negative,Can't Tell,Delta,@JetBlue as a customer it feels like i should stick to airlines other than jet blue. I travel for my work for past 5 years never seen $70
-7792,positive,Unknown,Delta,"Cool thx! Only a couple more #PGAShow flights til I'm #Mosaic...can't wait. Will be easier to change flights when weathers bad
-@JetBlue"
+7792,positive,Unknown,Delta,"Cool thx! Only a couple more #PGAShow flights til I'm #Mosaic...can't wait. Will be easier to change flights when weathers bad @JetBlue"
 7793,neutral,Unknown,Delta,@JetBlue Phew!! Did it!! (Pant. Wheeze) http://t.co/ZPZ78POeON
 7794,positive,Unknown,Delta,"@JetBlue thanks so much for help Us, u r amazing!"
 7795,neutral,Unknown,Delta,"@JetBlue Thanks, it's for next weekend though so my guess is it will only go higher."
@@ -8237,8 +8111,7 @@ I look forward to that do much!"
 8110,neutral,Unknown,Delta,@JetBlue's CEO battles to appease passengers and Wall Street - Waterbury Republican American http://t.co/Of7PFvQpOY
 8111,negative,Flight Attendant Complaints,Delta,"Lines may be extra long or security slow, but seems your employees too quick to blame customers who don't arrive 3-4 hours ahead @JetBlue"
 8112,positive,Unknown,Delta,Then you better #HoldOn - #EverythingsGonnaBeAlright @jetblue 4 our #brandloveaffair https://t.co/64kN6GEEP8 #TrueBlueLove #travel #business
-8113,negative,Customer Service Issue,Delta,"@JetBlue This is the error message: Paper tickets cannot be serviced on-line.
-Please see a JetBlue Crewmember for assistance."
+8113,negative,Customer Service Issue,Delta,"@JetBlue This is the error message: Paper tickets cannot be serviced on-line. Please see a JetBlue Crewmember for assistance."
 8114,neutral,Unknown,Delta,@JetBlue are there any food places open at the JFK T5 24//?
 8115,negative,Can't Tell,Delta,@JetBlue CCNDJP/ I can send a screen shot of the systems error if an email address is provided
 8116,negative,Can't Tell,Delta,"@JetBlue Inconvenience is an understatement. More like torture. Clearly going down the wrong path, JetBlue."
@@ -8981,20 +8854,16 @@ Please see a JetBlue Crewmember for assistance."
 8853,neutral,Unknown,Delta,@JetBlue Airways Adds New Charter #Flight to Cuba - #Travel Wires (blog) http://t.co/Swb1gR57Cc
 8854,neutral,Unknown,Delta,"Aww, is it? @JetBlue I guess now I need to book a flight to somewhere warm ASAP! Any suggestions?"
 8855,positive,Unknown,Delta,@JetBlue love traveling with Jetblue. Cant wait to go to Paris oui oui!!! NYC was awesomeee!
-8856,negative,Customer Service Issue,Delta,"@JetBlue 
-But if customer service ment anything to you.... you would try. Quoting policy is never effective customer service."
+8856,negative,Customer Service Issue,Delta,"@JetBlue But if customer service ment anything to you.... you would try. Quoting policy is never effective customer service."
 8857,neutral,Unknown,Delta,@JetBlue thank you. Is there a possibility it will change?
 8858,positive,Unknown,Delta,@JetBlue thanks!
 8859,neutral,Unknown,Delta,@JetBlue are we good?
 8860,positive,Unknown,Delta,@JetBlue thanks for the upgrade😉!! so far so good. #KeepItUp http://t.co/BKmfeY7QOL
 8861,positive,Unknown,Delta,@JetBlue @CinziannaP thank you! I like the quick response on Twitter!
 8862,positive,Unknown,Delta,@JetBlue This could be the beginning of a BLUEtiful relationship :) #lifeneedsfrosting
-8863,negative,Can't Tell,Delta,"@JetBlue 
-Apparently not."
+8863,negative,Can't Tell,Delta,"@JetBlue Apparently not."
 8864,negative,Late Flight,Delta,@JetBlue why are we delayed :( flight 1601
-8865,negative,Customer Service Issue,Delta,"@JetBlue continue button generated a trip to ""plan your trip page""
-regardless of how far along I was in Flight Booking Problems process
-hint: the end of it"
+8865,negative,Customer Service Issue,Delta,"@JetBlue continue button generated a trip to ""plan your trip page"" regardless of how far along I was in Flight Booking Problems process hint: the end of it"
 8866,neutral,Unknown,Delta,@JetBlue marks 15th birthday with @Airbus #A320 painted in 'Blumanity' paint job http://t.co/9vTFM7kNad
 8867,neutral,Unknown,Delta,"@JetBlue I would fly to Washington  DC to see the actual Constitution  and the Declaration of Independence, in honor of a US Navy friend."
 8868,neutral,Unknown,Delta,@JetBlue what is the name of this tailfin? http://t.co/qxV45MV0Ug
@@ -9155,8 +9024,7 @@ hint: the end of it"
 9023,negative,longlines,US Airways,@USAirways how can a person go from number one on a standby list to number twelve in three hours?  Should I be super platinum diamond status
 9024,negative,Flight Booking Problems,US Airways,"@USAirways Forget reservations. Thank you to the great leadership at your company, I've Cancelled Flighted my flight. Once again, thank you."
 9025,positive,Unknown,US Airways,@USAirways great job today from your team with a challenging weather delay on flight 1925 out of Charlotte. #travel #friendlyteam
-9026,neutral,Unknown,US Airways,"@USAirways ""Airport snow removal method #22...""
-Keep up the good work folks, this is where Cessna's become 747's! http://t.co/0JJT4X3YxG"
+9026,neutral,Unknown,US Airways,"@USAirways ""Airport snow removal method #22..."" Keep up the good work folks, this is where Cessna's become 747's! http://t.co/0JJT4X3YxG"
 9027,neutral,Unknown,US Airways,@USAirways and now you can't even accommodate us by letting us fly in to another airport?! Horrible service for your fault!!!
 9028,negative,Cancelled Flight,US Airways,.@USAirways It was this saturday during all the snow in the DC area.  Excited the flight was not Cancelled Flightled but sad he went missing.
 9029,negative,Customer Service Issue,US Airways,"@USAirways @AmericanAir I love you guys &amp; I'm gonna let you finish, but I've been on hold for 1 hour trying to book a flight w/ my voucher."
@@ -9184,8 +9052,7 @@ Keep up the good work folks, this is where Cessna's become 747's! http://t.co/0J
 9051,negative,Flight Booking Problems,US Airways,@USAirways trying to use chairman upgrade cert for flt 740 on 2/26/14 but being told not an option with 10 open seats? How? Thanks
 9052,negative,Customer Service Issue,US Airways,@USAirways but I've been trying to call them since yesterday and I keep getting hung up on? Can you get me through to them??
 9053,neutral,Unknown,US Airways,@USAirways what's the charge for oversize? Not overweight
-9054,neutral,Unknown,US Airways,"@USAirways to my legal last name. So it's not technically a name change,
-I just used the wrong name"
+9054,neutral,Unknown,US Airways,"@USAirways to my legal last name. So it's not technically a name change, I just used the wrong name"
 9055,negative,Flight Booking Problems,US Airways,@USAirways an award travel ticket but cannot since it is under a different last name. I simply need to change it
 9056,neutral,Unknown,US Airways,@USAirways Hi! On my dividend miles account I accidentally listed my newly married name as opposed to my legal name. I am trying to book
 9057,negative,Customer Service Issue,US Airways,@usairways Ok thank you…I call from Spain to US for seating assistance!
@@ -9303,8 +9170,7 @@ I just used the wrong name"
 9169,neutral,Unknown,US Airways,@USAirways  My tweet gets me a response to email dmsc@usairways.com
 9170,neutral,Unknown,US Airways,@USAirways The help/complaint forms on the website can be used only if the matter applies to an actual ticketed flight
 9171,negative,Customer Service Issue,US Airways,@USAirways   No one picks up the phone all day/  no opportunity to leave a voicemail
-9172,negative,Flight Booking Problems,US Airways,"@USAirways  Instead, the miles are credited to an account that i did not open
--- My request to merge the accounts is denied"
+9172,negative,Flight Booking Problems,US Airways,"@USAirways  Instead, the miles are credited to an account that i did not open-- My request to merge the accounts is denied"
 9173,negative,Can't Tell,US Airways,@USAirways No I was there 12 hrs early! Send me an email to share my experience You don't want this blasting here.
 9174,negative,Customer Service Issue,US Airways,"@USAirways  I open the credit card and earn 44,000+ miles, and you wont' credit the miles to my account to restore the forfeited miles"
 9175,negative,Flight Booking Problems,US Airways,@USAirways  you took the miles out of my account and told me that I could restore by paying $150 or opening a credit card
@@ -9332,8 +9198,7 @@ I just used the wrong name"
 9197,negative,Customer Service Issue,US Airways,@USAirways Please hold flight US 639 in Phoenix! I'm a weary traveler stuck on another flight because the tarmac is having issues!
 9198,negative,Customer Service Issue,US Airways,"@USAirways - No live person to speak with all day at Dividend Miles, after they wrongfully took over 65,000 miles out of my account."
 9199,negative,Lost Luggage,US Airways,@USAirways my frustrations are the result of multiple experiences Late Flightly. Currently lost luggage. I want to talk to a real person.
-9200,negative,Customer Service Issue,US Airways,"@USAirways cust svc means nothing! So disappointed. Trying since 730a to speak to a human I get bad weather not bad service.
-#socialtantrum"
+9200,negative,Customer Service Issue,US Airways,"@USAirways cust svc means nothing! So disappointed. Trying since 730a to speak to a human I get bad weather not bad service. #socialtantrum"
 9201,negative,Can't Tell,US Airways,"@USAirways yes, but I had to pay more for another flight to get me out tomorrow since there weren't anymore for tonight...not fun :-/"
 9202,negative,Flight Booking Problems,US Airways,"@USAirways Well, that's a problem considering I need to book a flight tonight for this weekend... is there anything you can do?"
 9203,neutral,Unknown,US Airways,@USAirways but i bougth mc caren to jfk with same agency and delta airways . Delta refund money but usairways doesnt accept to refund
@@ -9711,8 +9576,7 @@ I just used the wrong name"
 9575,negative,Customer Service Issue,US Airways,@USAirways I've been on hold for 30 minutes and counting. #unacceptable
 9576,negative,Cancelled Flight,US Airways,@USAirways Discovered our flight was Cancelled Flightled yesterday at 3:30PM - @americanairlnes finally notified us our flight was Cancelled Flighted at 0316 AM
 9577,negative,Can't Tell,US Airways,@USAirways I am appalled. My departure with you was all messed up and now on return i am supposed to fly alone with two very sick kids
-9578,negative,Customer Service Issue,US Airways,"@USAirways Will tweet all day until I get 
-a live cust rep. I will make sure the world knows you don't care about your customers health."
+9578,negative,Customer Service Issue,US Airways,"@USAirways Will tweet all day until I get a live cust rep. I will make sure the world knows you don't care about your customers health."
 9579,positive,Unknown,US Airways,@USAirways Thank you.
 9580,neutral,Unknown,US Airways,@USAirways 4473.  She just called to say it's a runway clearing problem of all things.
 9581,negative,Late Flight,US Airways,@USAirways Decided to be a good sport and give you guys another shot. Flight delayed. Again.
@@ -10437,11 +10301,9 @@ a live cust rep. I will make sure the world knows you don't care about your cust
 10300,negative,Flight Booking Problems,US Airways,@USAirways @caterobbie if that link worked most of us could take care of ourselves  please contact your tech people to get that working
 10301,negative,Customer Service Issue,US Airways,@USAirways i've been on hold since 11:30pm  need to reschedule my Cancelled Flightled flight for a morning departure tomorrow.  please help!!!!!!
 10302,neutral,Unknown,US Airways,@USAirways download jeokoo the American app for air travelers
-10303,negative,Customer Service Issue,US Airways,"@USAirways obviously your corporate definition of PATIENCE needs to be reviewed.
-#Pleasehurryup #answerphone #reschedulemyflight"
+10303,negative,Customer Service Issue,US Airways,"@USAirways obviously your corporate definition of PATIENCE needs to be reviewed. #Pleasehurryup #answerphone #reschedulemyflight"
 10304,negative,Customer Service Issue,US Airways,@USAirways Need help with a flight. Weather + funeral = tough combination. On hold for over an hour. Please?
-10305,negative,Customer Service Issue,US Airways,"@usairways I've been on hold since 11:30pm how many customer service reps do you have?
- #seriously"
+10305,negative,Customer Service Issue,US Airways,"@usairways I've been on hold since 11:30pm how many customer service reps do you have? #seriously"
 10306,negative,Late Flight,US Airways,@USAirways @nburnside26 Well if you really didn't like them then she would be on an airplane. #FIOUSAirways 💁
 10307,negative,Customer Service Issue,US Airways,"@USAirways yes, i am as well.  **FIVE** HOURS ON HOLD, FOLKS. Can you PLEASE tell me if this is typical?! Trying to be understanding here."
 10308,negative,Late Flight,US Airways,@USAirways can you please train your mechanics? Teach them to bring the tools to fix the plane with them and not leave them in the hanger.
@@ -10479,9 +10341,7 @@ a live cust rep. I will make sure the world knows you don't care about your cust
 10340,negative,Customer Service Issue,US Airways,@USAirways You won't give us a hotel or food. Can you at least suggestion options for making it to the metro city I have a ticket to?
 10341,negative,Late Flight,US Airways,@USAirways actually it landed in BWI 30 minutes ago. She is stranded but I have friends to help. You FAILED big time on this one.
 10342,negative,Customer Service Issue,US Airways,@USAirways I have been on hold for over one hour waiting to reschedule a flight. How much longer should I expect?
-10343,negative,Customer Service Issue,US Airways,"@USAirways its fine. 
-
-Just wondering where my money went..."
+10343,negative,Customer Service Issue,US Airways,"@USAirways its fine. Just wondering where my money went..."
 10344,negative,Bad Flight,US Airways,@USAirways You landed me at #BWI instead of @Reagan_Airport  and have no plans for me to make it home to DC. How do you suggest I get home?
 10345,negative,Customer Service Issue,US Airways,"@USAirways stranded at BWI after two diversions. No cust service, no transport. Dumped here. Terrible customer service!"
 10346,negative,Customer Service Issue,US Airways,"@USAirways As a member of the news media, the awful service of the last few days won't go unnoticed."
@@ -10510,9 +10370,7 @@ Just wondering where my money went..."
 10369,negative,Late Flight,US Airways,"@USAirways TRBL experience! 2 hrs on the Tarmac for an inch of snow IN PHL ""No hanger open"" &amp; ""a pile of snow""?  #terriblecommunication"
 10370,negative,Bad Flight,US Airways,@USAirways flight 837 passengers stuck on plane in Philly. Where is the gangway?  We can't hear the pilot
 10371,negative,longlines,US Airways,@USAirways 2 hours and counting waiting to get into a gate in Philadelphia. Just icing on the cake for a miserable flight experience
-10372,negative,Flight Booking Problems,US Airways,"@USAirways HELP! It says ""the payment is denied"" but my money has been taken out of my bank?  
-
-And it says I have no trips coming up??"
+10372,negative,Flight Booking Problems,US Airways,"@USAirways HELP! It says ""the payment is denied"" but my money has been taken out of my bank?  And it says I have no trips coming up??"
 10373,negative,Cancelled Flight,US Airways,"@USAirways help! Flight Cancelled Flighted, can't call because my phone doesn't work in Europe. Please help? Says I'm booked want to confirm."
 10374,negative,Bad Flight,US Airways,"@USAirways not happy w/ app Late Flightly. Last time I flew wouldn't let me check in, This time I checked in went on Late Flightr says I never checked in"
 10375,negative,Customer Service Issue,US Airways,@USAirways @AmericanAir how do I get thru on hold over 3 hours ?
@@ -10770,8 +10628,7 @@ And it says I have no trips coming up??"
 10627,negative,Lost Luggage,US Airways,@USAirways Cool. Now @SweetingR has been told you can't re-route his bags after he was told to leave them last night. He needs them to race.
 10628,negative,Late Flight,US Airways,"@USAirways quick, let's board a plane so that we can sit on runway for 2 hours #clockwork #scareways #neverfails @AUmilo1"
 10629,negative,Customer Service Issue,US Airways,"@USAirways Also, get excited, because he's going to be unable to contact you all from his destination, so you get to talk to me."
-10630,negative,Bad Flight,US Airways,"@USAirways flight 705 FRA-CAT did some odd zig-zagging movements over Frankfurt...
-Is everything ok?"
+10630,negative,Bad Flight,US Airways,"@USAirways flight 705 FRA-CAT did some odd zig-zagging movements over Frankfurt... Is everything ok?"
 10631,negative,Customer Service Issue,US Airways,"@USAirways It's pretty hilarious that you want @SweetingR to finish his awful experience before doing something. Make it right, now."
 10632,negative,Cancelled Flight,US Airways,"@USAirways u would think if u were going to Cancelled Flight my flight, you'd rebook our seats to something other than the last row. #usairwaysfail"
 10633,negative,Customer Service Issue,US Airways,@USAirways no online clearly states I can NOT- It says to call res. I already explained that.
@@ -10979,8 +10836,7 @@ Is everything ok?"
 10835,negative,Customer Service Issue,US Airways,@USAirways Call volumes are high so the best answer is to hang up on me?
 10836,positive,Unknown,US Airways,@USAirways i got through and am able to switch my flight with no charge. Thank you
 10837,neutral,Unknown,US Airways,@USAirways will you please start offering more routes out of @triflight to more locations instead of just charlotte and atlanta
-10838,positive,Unknown,US Airways,"@USAirways Welcome to North Texas US Air / American Air employees. 
-Housing and Education are great opportunities in The GR8 State Of Texas"
+10838,positive,Unknown,US Airways,"@USAirways Welcome to North Texas US Air / American Air employees. Housing and Education are great opportunities in The GR8 State Of Texas"
 10839,neutral,Unknown,US Airways,@USAirways oh they saw it and said nothing.
 10840,negative,Customer Service Issue,US Airways,@USAirways yes but lost a whole day.  Frustrating!!  #poor customer service
 10841,negative,Customer Service Issue,US Airways,@USAirways Saddens me that my first tweet - ever - has to be a complaint about customer service.
@@ -11006,8 +10862,7 @@ Housing and Education are great opportunities in The GR8 State Of Texas"
 10861,positive,Unknown,US Airways,@USAirways Melinda in reservations in greensboro nc is an absolute jewel thank her for me she's amazing!!!
 10862,negative,Flight Attendant Complaints,US Airways,"@USAirways the two women workng PHL bag check term C @ 11:30 ET should be fired for being rude, pushy and treating customers with disrespect"
 10863,positive,Unknown,US Airways,@USAirways Best GAgent in a long time - Danny B. for US628 DFW-CLT. Appreciated how up to date he kept us during irrops. Super professional!
-10864,positive,Unknown,US Airways,"@USAirways 
-Good news, we got fixed."
+10864,positive,Unknown,US Airways,"@USAirways Good news, we got fixed."
 10865,negative,Customer Service Issue,US Airways,@sarahpompei don't bother wasting your time!  @USAirways will send u a form letter &amp; let u choose a gift certificate. #worstcustomerservice
 10866,neutral,Unknown,US Airways,@USAirways thanks is there a beareavement discount anymore or not should I just book online
 10867,negative,Late Flight,US Airways,@USAirways and now that flight pushed back to 2:35pm departure.
@@ -11309,8 +11164,7 @@ Good news, we got fixed."
 11163,negative,Customer Service Issue,US Airways,@USAirways they finally answered. They were rude and didn't help me at all.
 11164,neutral,Unknown,US Airways,"@USAirways @AmericanAir no, don't leave me!!!"
 11165,positive,Unknown,US Airways,"@USAirways #success made flight , please thank the crew of 556 great time recovery"
-11166,neutral,Unknown,US Airways,"@USAirways I have 2d and 3d embossed badges and patches superior to the ones you are currently using. 
-http://t.co/3fq3XElbOn"
+11166,neutral,Unknown,US Airways,"@USAirways I have 2d and 3d embossed badges and patches superior to the ones you are currently using. http://t.co/3fq3XElbOn"
 11167,positive,Unknown,US Airways,@USAirways - so far so good this week. SAV to CLT boarded BEFORE the departure time (first time in 4 weeks). Perhaps an on time departure?!
 11168,neutral,Unknown,US Airways,@USAirways is this accurate? Safety guide shown no MP3 player usage during takeoff and landing. http://t.co/Nvk3IrG4KP
 11169,negative,Customer Service Issue,US Airways,@USAirways I've been on hold for 36 mins and counting cause you charged my credit card for bag but provided no receipt and said error. Awful
@@ -11520,8 +11374,7 @@ http://t.co/3fq3XElbOn"
 11373,negative,Customer Service Issue,US Airways,@USAirways no they dont.  I think I already said that.  No one responds.  Its an auto response.  Wait is this an auto response??????
 11374,positive,Unknown,US Airways,@USAirways @AmericanAir First Class all the way!!💺✈️ Headed to @portlandjetport http://t.co/kDMq0jps02
 11375,negative,Customer Service Issue,US Airways,@USAirways started trying to reach a real person over an hour ago still no luck
-11376,negative,Can't Tell,US Airways,"@USAirways us2118
-My wife in Boston says no snow right now."
+11376,negative,Can't Tell,US Airways,"@USAirways us2118 My wife in Boston says no snow right now."
 11377,negative,Customer Service Issue,US Airways,@USAirways I tried to call your customer service line only to be kept in a que for over 45 mins...... please hold =we don't care
 11378,negative,Customer Service Issue,US Airways,@USAirways you see now that is a lie.  They auto respond with insulting email. #sucks
 11379,positive,Unknown,US Airways,@USAirways your pple did a great job w the madness however some of your systems need help. I appreciate the hard work &amp; the push to b better
@@ -11593,8 +11446,7 @@ My wife in Boston says no snow right now."
 11445,negative,Customer Service Issue,US Airways,"@usairways I am sure you are sincere in your apology, its disappointing from a customer perspective when you want loyal customers #options"
 11446,negative,Flight Booking Problems,US Airways,@USAirways Yeah I know that...but now I'll have to spend almost 500 dollars more on my ticket since the price has gone up over the week
 11447,negative,Can't Tell,US Airways,@USAirways yeah either by refunding my money or 2 free round trips to compensate for all the trouble we were put through.
-11448,negative,Can't Tell,US Airways,"@USAirways 
-Are you an incompetent airline every day, or just days that end in 'y'?"
+11448,negative,Can't Tell,US Airways,"@USAirways Are you an incompetent airline every day, or just days that end in 'y'?"
 11449,negative,Flight Booking Problems,US Airways,@USAirways There isn't a ticket number...the transaction is still pending.
 11450,negative,Can't Tell,US Airways,"@USAirways do families no longer get early boarding with young kids?  American, your new parent, gives it to us..."
 11451,negative,Late Flight,US Airways,@USAirways not patient - originally 11:51 and now 4:41.
@@ -11640,8 +11492,7 @@ Are you an incompetent airline every day, or just days that end in 'y'?"
 11491,positive,Unknown,US Airways,"@USAirways Thank you, busy times."
 11492,negative,Late Flight,US Airways,"@USAirways My flight was delayed and rerouted, and not so much as a ""sorry for your inconvenience"" from the check-in agent? #notimpressed"
 11493,negative,Late Flight,US Airways,"@USAirways @AmericanAir 90 min delay thanks to ""maintenance issues"". Thanks for wasting a day."
-11494,negative,Customer Service Issue,US Airways,"@USAirways 
-Not one to complain much but really 1 hour 15minutes and still nothing. Agents or Agent ⤵ http://t.co/Q5SB0DaVuy"
+11494,negative,Customer Service Issue,US Airways,"@USAirways Not one to complain much but really 1 hour 15minutes and still nothing. Agents or Agent ⤵ http://t.co/Q5SB0DaVuy"
 11495,positive,Unknown,US Airways,@USAirways thanks :)
 11496,negative,Customer Service Issue,US Airways,@USAirways thanks for crappy hotel with no food and a taxi bill followed by being on standby for your Cancelled Flightlation. #USAirways
 11497,neutral,Unknown,US Airways,"@USAirways through, can you confirm that I haven't been charged?"
@@ -11649,8 +11500,7 @@ Not one to complain much but really 1 hour 15minutes and still nothing. Agents o
 11499,positive,Unknown,US Airways,"@USAirways YOU ARE AMAZING!!! FOLLOW ME BACK, PLEASE!!!🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏"
 11500,negative,Customer Service Issue,US Airways,"@USAirways I've been on hold with your Divident Miles service desk for 45 minutes, and that's after being hung up on the first time."
 11501,negative,Cancelled Flight,US Airways,@USAirways is useless airways. Day 2 trying to get home on standby as a result of their Cancelled Flightlation. #USAirways
-11502,negative,Customer Service Issue,US Airways,"@USAirways 
-This is how vacations get Cancelled Flightled been on hold ⤵for 40+ minutes still havent talked to anyone. #failure http://t.co/ef4P0HISHb"
+11502,negative,Customer Service Issue,US Airways,"@USAirways This is how vacations get Cancelled Flightled been on hold ⤵for 40+ minutes still havent talked to anyone. #failure http://t.co/ef4P0HISHb"
 11503,negative,Customer Service Issue,US Airways,@USAirways for a response in 3-4 days? No thanks
 11504,negative,Customer Service Issue,US Airways,@USAirways will never travel with you again. This is insanity. storms are inevitable but making us hold to just add a lap child #badservice
 11505,negative,Late Flight,US Airways,@USAirways any word on flight 1748 getting out of DFW in the near future? Stuck on plane at gate for over an hour
@@ -11689,12 +11539,7 @@ This is how vacations get Cancelled Flightled been on hold ⤵for 40+ minutes st
 11538,negative,Late Flight,US Airways,@USAirways tell the flight from clt to srq 5080 to wait!!!!!!
 11539,negative,Lost Luggage,US Airways,@USAirways @BohnJai they lost my bag @PHL baggage handlers broke open my bag and stole my camera
 11540,neutral,Unknown,US Airways,"@USAirways if there are empty first class seats on my flight at check in, why wouldn't I be automatically upgraded?"
-11541,negative,Customer Service Issue,US Airways,"@USAirways grades for this trip:
-
-Flight timeliness: 👎✈️
-Cancelled Flightations: 👎😬
-Customer Service: 👎😡
-Flight attendants: 😊👏"
+11541,negative,Customer Service Issue,US Airways,"@USAirways grades for this trip: Flight timeliness: 👎✈️ Cancelled Flightations: 👎😬 Customer Service: 👎😡 Flight attendants: 😊👏"
 11542,negative,Flight Attendant Complaints,US Airways,"@USAirways Thanks means a lot after I was verbally cussed out, charged extra for a bag, &amp; then told "" I don't feel like dealing with it"" 😒"
 11543,negative,Late Flight,US Airways,@USAirways stuck in cae need reFlight Booking Problems for next flight possibly dm for more info
 11544,negative,Flight Attendant Complaints,US Airways,@USAirways Has the most useless &amp; Rude employees ever at Philadelphia airport never again will I fly with them ! 😤
@@ -11715,8 +11560,7 @@ Flight attendants: 😊👏"
 11559,negative,Customer Service Issue,US Airways,@USAirways I've been on hold for one hour and four minutes for your reservations line. How can you possibly do business this way?
 11560,negative,Customer Service Issue,US Airways,"@USAirways lack of communication with other offices, the customer, &amp; yall never update ur systems. U guys are 2 established 4 this mess"
 11561,negative,Customer Service Issue,US Airways,@USAirways u guys get too much $$$ and too many customers  to be fucking up as badly as u do
-11562,positive,Unknown,US Airways,"@USAirways @AmericanAir @SVLLINDIA provides you the best logistics experience for people all over India.
-#Mumbai #Surat #NaviMumbai"
+11562,positive,Unknown,US Airways,"@USAirways @AmericanAir @SVLLINDIA provides you the best logistics experience for people all over India. #Mumbai #Surat #NaviMumbai"
 11563,negative,Late Flight,US Airways,"@USAirways after last night in Charlotte NC I'm seriously debating never flying you again. 50 minute on the Tarmac, connection leaves."
 11564,neutral,Unknown,US Airways,"@USAirways hi!  Could you protect me on US 445 just in case? Still on ground with no checked luggage, but still a chance I can make original"
 11565,negative,Customer Service Issue,US Airways,@USAirways great but that still does not help me..
@@ -11898,9 +11742,7 @@ Flight attendants: 😊👏"
 11741,positive,Unknown,US Airways,@USAirways nice touch with using my first name.  Very intimate.  I'll be filing a claim soon to be reimbursed. Have a us airways day!
 11742,negative,Customer Service Issue,US Airways,"@USAirways The airline is embarrassing itself. I get that bad weather isn't your fault, but your response to it couldn't have been worse."
 11743,negative,Bad Flight,US Airways,@USAirways any updates on flight 5202 from ORF to PHL no one at gate...  ;(
-11744,negative,Flight Booking Problems,US Airways,"@usairways Yes. Works in Firefox. 
-
-Can do everything but finish purchase. Button turns gray, never submits. For a couple weeks now."
+11744,negative,Flight Booking Problems,US Airways,"@usairways Yes. Works in Firefox. Can do everything but finish purchase. Button turns gray, never submits. For a couple weeks now."
 11745,negative,Cancelled Flight,US Airways,@USAirways 2.5 hours Late Flightr and the flight has been Cancelled Flightled. You gotta work on your internal communication skills.
 11746,negative,Bad Flight,US Airways,"@USAirways had a horrible experience flying from Montego Bay to Philadelphia on 2/11. $125 2check a golf bag, constant selling in-flight"
 11747,negative,longlines,US Airways,"@usairways told no gates open at #ORD, needed to wait 20mins. Still waiting after about 4 mins."
@@ -11936,9 +11778,7 @@ Can do everything but finish purchase. Button turns gray, never submits. For a c
 11777,neutral,Unknown,US Airways,@USAirways I was supposed to be on flight 1861 from Charlotte to RDU @ 8:20pm yesterday. Is the same flight scheduled for departure tonight?
 11778,positive,Unknown,US Airways,@USAirways Thank you so much its been a very stressful day
 11779,negative,Flight Attendant Complaints,US Airways,"@USAirways me too. In the future, have a better harsh weather preparedness plan. So much of your staff called out that everything snowballed"
-11780,negative,Flight Booking Problems,US Airways,"@usairways If I could/wanted to call I wouldn't use the internet to make a reservation.
-
-Site won't work on Chrome, on several computers."
+11780,negative,Flight Booking Problems,US Airways,"@usairways If I could/wanted to call I wouldn't use the internet to make a reservation. Site won't work on Chrome, on several computers."
 11781,neutral,Unknown,US Airways,"@USAirways Darn it, first in line for no upgrade! Wish I understood the policy. :) http://t.co/xGPaAyFDwt"
 11782,negative,Lost Luggage,US Airways,@USAirways Waiting for my luggage on flight 1923. Is there a delay?
 11783,negative,Customer Service Issue,US Airways,@USAirways will you please update your website with the most current flight status? And update your customer service phone # on @google thx
@@ -11993,8 +11833,7 @@ Site won't work on Chrome, on several computers."
 11832,negative,Cancelled Flight,US Airways,"@USAirways Flight 2069 from JFK to Charlotte, then 3750 from Charlotte to Birmingham. 2 previous flights to HSV were Cancelled Flightled."
 11833,negative,Customer Service Issue,US Airways,@USAirways still crickets from customer service.
 11834,neutral,Unknown,US Airways,@USAirways flight #3900 fro ORF to PHL.
-11835,negative,Flight Booking Problems,US Airways,"@USAirways 
-That is not an excuse to have such a poor website Flight Booking Problems options! My yearly vacation is about to fall through, ubetter do smth!"
+11835,negative,Flight Booking Problems,US Airways,"@USAirways That is not an excuse to have such a poor website Flight Booking Problems options! My yearly vacation is about to fall through, ubetter do smth!"
 11836,negative,Customer Service Issue,US Airways,@USAirways The phone line disconnects. How can I be in the queue to be answered when the phone line simply disconnects when I call?
 11837,negative,Cancelled Flight,US Airways,@USAirways want to bump up my seet to first class for two Cancelled Flightlations in 24hrs?? what a joke
 11838,negative,Customer Service Issue,US Airways,@USAirways  to arrive the plane I'm sitting on needs to take off...wish someone would tell us what the holdup is
@@ -12106,8 +11945,7 @@ That is not an excuse to have such a poor website Flight Booking Problems option
 11944,neutral,Unknown,American,@AmericanAir OK I will call them likely tmrw UK time to question the process getting the change charge reversed due to a bereavement
 11945,negative,Lost Luggage,American,@AmericanAir - Please find my bag!! In Singapore for three days already without my bag. Last known destination LAX Tag: 580815 Please help.
 11946,negative,Customer Service Issue,American,@AmericanAir “Inconvenient” is such a convenient word.
-11947,negative,Lost Luggage,American,"@AmericanAir
- Your response could have made all the difference. It could have made the situation better. NO TRUST...GET LOST like my bag."
+11947,negative,Lost Luggage,American,"@AmericanAir Your response could have made all the difference. It could have made the situation better. NO TRUST...GET LOST like my bag."
 11948,negative,Late Flight,American,"@AmericanAir delayed on the way to Puerto Rico and delayed on the way back to New York, this is disgraceful"
 11949,negative,Lost Luggage,American,"@AmericanAir That's ok...You may keep my $25 and lose my bag with no info, but you no longer have my trust. Bad way to handle this."
 11950,negative,Late Flight,American,@AmericanAir come on I just want to go home I can't miss another day of work #stuckinmemphis #texasisclosed
@@ -12128,15 +11966,13 @@ That is not an excuse to have such a poor website Flight Booking Problems option
 11965,negative,Can't Tell,American,@AmericanAir don't worry you won't steal my money again
 11966,negative,Customer Service Issue,American,@AmericanAir why am I continually getting put on hold by painfully inexperienced people when calling your Platinum desk?!
 11967,negative,Customer Service Issue,American,@AmericanAir pretty lame response to a two paged single spaced letter http://t.co/aCebo6ELPa
-11968,negative,Customer Service Issue,American,"@AmericanAir 
-It's not what happens to us that matters...It's our response that matters. Way to drop the ball AA."
+11968,negative,Customer Service Issue,American,"@AmericanAir It's not what happens to us that matters...It's our response that matters. Way to drop the ball AA."
 11969,negative,Bad Flight,American,"@AmericanAir I am looking for help on USAirways award travel booked for wife and two boys, no seats assigned."
 11970,neutral,Unknown,American,@AmericanAir @Clarkey_19 we done it with 1 truck... No biggie 😄
 11971,negative,Can't Tell,American,@AmericanAir and @iTunesMusic have put me in bad mood. I haven't been this angry since Spagnuolo coached the #Rams
 11972,negative,Cancelled Flight,American,@AmericanAir AND they Cancelled Flighted my flight and left me with no help to find a hotel to stay in. I slept in an airport for a night-_-
 11973,negative,Cancelled Flight,American,"@AmericanAir flight 1181 out of Vegas to DFW. Cancelled Flightled Sunday and Monday, no whammie today!"
-11974,positive,Unknown,American,"@AmericanAir ""Airport snow removal method #22...""
-Keep up the good work folks, this is where Cessna's become 747's! http://t.co/oUmC1LrXDN"
+11974,positive,Unknown,American,"@AmericanAir ""Airport snow removal method #22...""Keep up the good work folks, this is where Cessna's become 747's! http://t.co/oUmC1LrXDN"
 11975,neutral,Unknown,American,@AmericanAir These birds could fly to South America for example #Argentina
 11976,negative,Cancelled Flight,American,@AmericanAir my flight 386 from Jacksonville fl to Dallas is showing Cancelled Flightled. What is going on?  Am I rebooked on another flight?
 11977,positive,Unknown,American,"@AmericanAir great, thanks!"
@@ -12270,8 +12106,7 @@ Keep up the good work folks, this is where Cessna's become 747's! http://t.co/oU
 12105,neutral,Unknown,American,@AmericanAir OK I will call them likely tmrw UK time to question the process getting the change charge reversed due to a bereavement
 12106,negative,Lost Luggage,American,@AmericanAir - Please find my bag!! In Singapore for three days already without my bag. Last known destination LAX Tag: 580815 Please help.
 12107,negative,Customer Service Issue,American,@AmericanAir “Inconvenient” is such a convenient word.
-12108,negative,Lost Luggage,American,"@AmericanAir
- Your response could have made all the difference. It could have made the situation better. NO TRUST...GET LOST like my bag."
+12108,negative,Lost Luggage,American,"@AmericanAir Your response could have made all the difference. It could have made the situation better. NO TRUST...GET LOST like my bag."
 12109,negative,Late Flight,American,"@AmericanAir delayed on the way to Puerto Rico and delayed on the way back to New York, this is disgraceful"
 12110,negative,Lost Luggage,American,"@AmericanAir That's ok...You may keep my $25 and lose my bag with no info, but you no longer have my trust. Bad way to handle this."
 12111,negative,Cancelled Flight,American,@AmericanAir come on I just want to go home I can't miss another day of work #stuckinmemphis #texasisclosed
@@ -12292,15 +12127,13 @@ Keep up the good work folks, this is where Cessna's become 747's! http://t.co/oU
 12126,negative,Can't Tell,American,@AmericanAir don't worry you won't steal my money again
 12127,negative,Customer Service Issue,American,@AmericanAir why am I continually getting put on hold by painfully inexperienced people when calling your Platinum desk?!
 12128,negative,Customer Service Issue,American,@AmericanAir pretty lame response to a two paged single spaced letter http://t.co/aCebo6ELPa
-12129,negative,Can't Tell,American,"@AmericanAir 
-It's not what happens to us that matters...It's our response that matters. Way to drop the ball AA."
+12129,negative,Can't Tell,American,"@AmericanAir It's not what happens to us that matters...It's our response that matters. Way to drop the ball AA."
 12130,negative,Flight Booking Problems,American,"@AmericanAir I am looking for help on USAirways award travel booked for wife and two boys, no seats assigned."
 12131,positive,Unknown,American,@AmericanAir @Clarkey_19 we done it with 1 truck... No biggie 😄
 12132,negative,Can't Tell,American,@AmericanAir and @iTunesMusic have put me in bad mood. I haven't been this angry since Spagnuolo coached the #Rams
 12133,negative,Cancelled Flight,American,@AmericanAir AND they Cancelled Flighted my flight and left me with no help to find a hotel to stay in. I slept in an airport for a night-_-
 12134,negative,Cancelled Flight,American,"@AmericanAir flight 1181 out of Vegas to DFW. Cancelled Flightled Sunday and Monday, no whammie today!"
-12135,positive,Unknown,American,"@AmericanAir ""Airport snow removal method #22...""
-Keep up the good work folks, this is where Cessna's become 747's! http://t.co/oUmC1LrXDN"
+12135,positive,Unknown,American,"@AmericanAir ""Airport snow removal method #22...""Keep up the good work folks, this is where Cessna's become 747's! http://t.co/oUmC1LrXDN"
 12136,neutral,Unknown,American,@AmericanAir These birds could fly to South America for example #Argentina
 12137,negative,Cancelled Flight,American,@AmericanAir my flight 386 from Jacksonville fl to Dallas is showing Cancelled Flightled. What is going on?  Am I rebooked on another flight?
 12138,positive,Unknown,American,"@AmericanAir great, thanks!"
@@ -12355,8 +12188,7 @@ Keep up the good work folks, this is where Cessna's become 747's! http://t.co/oU
 12187,positive,Unknown,American,@AmericanAir Nice to read it! Thank you very much!
 12188,negative,Bad Flight,American,@AmericanAir we have been advised to turn this issue over to the police due to the sexual assult THANK YOU FOR ALLOWING THAT ON YOUR PLANE!
 12189,negative,Can't Tell,American,@AmericanAir Fuck you.
-12190,negative,Lost Luggage,American,"@AmericanAir 
-Not giving you a hard time...Just looking for basic customer service after AA lost my bag. ETA on it's return, please????????"
+12190,negative,Lost Luggage,American,"@AmericanAir Not giving you a hard time...Just looking for basic customer service after AA lost my bag. ETA on it's return, please????????"
 12191,neutral,Unknown,American,@AmericanAir I bet they do! I'm sure they have some form of wear and tear on their skin. I hope they will survive the rest of the winter xxx
 12192,positive,Unknown,American,@AmericanAir @dfwairport me too!!  LOVE LIVING SO CLOSE SO I ALWAYS HAVE GREAT VIEWS!
 12193,positive,Unknown,American,@AmericanAir Thanks!
@@ -12387,8 +12219,7 @@ Not giving you a hard time...Just looking for basic customer service after AA lo
 12218,negative,Flight Attendant Complaints,American,@AmericanAir since you don't care about what happens to your passengers on your planes we will now be contacting the Police Dept
 12219,negative,Bad Flight,American,@AmericanAir why are @USAirways gold forced to pay for an upgrade? Open seats in 1st and not offered to Gold/Sapphire
 12220,neutral,Unknown,American,“@AmericanAir: Bet these birds wish they'd flown south for the #winter... http://t.co/tY9C0Gae2o” Lol
-12221,positive,Unknown,American,"@AmericanAir 
-I still think American Airlines is great...I would just like to be treated better. Loyal customers first, right?"
+12221,positive,Unknown,American,"@AmericanAir I still think American Airlines is great...I would just like to be treated better. Loyal customers first, right?"
 12222,positive,Unknown,American,@AmericanAir if I could fly an md80/dc10 I would be so happy I live that plane so much md80 is love md80 is life.
 12223,neutral,Unknown,American,@ods1819 aren't you glad this isn't you RT @AmericanAir: Bet these birds wish they'd flown south for the #winter... http://t.co/HEpkNpuzwU
 12224,neutral,Unknown,American,@AmericanAir second pic from CDG?
@@ -12410,9 +12241,7 @@ I still think American Airlines is great...I would just like to be treated bette
 12240,negative,Can't Tell,American,"@AmericanAir I'd love to take my seat, but it appears as though someone already has.  #disappointed #upgrademe #wtf http://t.co/9Gx5mMmubb"
 12241,neutral,Unknown,American,"@AmericanAir if i want to change my flight due to weather conditions in Dallas this weekend, i should be able to cover change fee with miles"
 12242,neutral,Unknown,American,@AmericanAir Are you expecting delays/Cancelled Flightlations at Dallas on 25/26th due to the snow? Nothing like Monday I hope!
-12243,negative,Customer Service Issue,American,"@AmericanAir just look at RDU airport. please think about the safety of your passengers. we cant get to RDU safely!
-
-http://t.co/wDyEkVB1Ze"
+12243,negative,Customer Service Issue,American,"@AmericanAir just look at RDU airport. please think about the safety of your passengers. we cant get to RDU safely! http://t.co/wDyEkVB1Ze"
 12244,negative,Flight Booking Problems,American,@AmericanAir Please explain why it costs almost the same price of a full roundtrip fair to only change the departure time of a flight?
 12245,negative,Late Flight,American,@AmericanAir The flight was delayed 5 times. Spent almost 40min on the tarmac. I'll reconsider my future flight options.
 12246,positive,Unknown,American,@AmericanAir oh it's nothing my issue was already resolved and I am in the air
@@ -12427,8 +12256,7 @@ http://t.co/wDyEkVB1Ze"
 12255,neutral,Unknown,American,@AmericanAir have your experts seen this? this is right at RDU airport. http://t.co/mPliO6DYgn
 12256,negative,Customer Service Issue,American,"@AmericanAir stop sending me back to ""customer relations ""I have hand written a letter to them, send in a letter, called them, no help!!"
 12257,negative,Customer Service Issue,American,@AmericanAir Is large Wichita Falls Airport not receiving any arrivals? I have called and no one answers. I been waiting for 1 day
-12258,negative,Lost Luggage,American,"@AmericanAir 
-Can you tell me what that means? I work and just need an estimated time of arrival please? I need my laptop for work. Thanks"
+12258,negative,Lost Luggage,American,"@AmericanAir Can you tell me what that means? I work and just need an estimated time of arrival please? I need my laptop for work. Thanks"
 12259,negative,Late Flight,American,@AmericanAir Waiting an hour now for a pilot AA3688. Is there a pilot in the house at DFW?
 12260,positive,Unknown,American,@AmericanAir Kudos to the captain and crew for handling fustrated people while dealing with the preventable issues and shortcomings by maint
 12261,neutral,Unknown,American,@AmericanAir do you offer group pricing discounts by any chance?
@@ -12446,8 +12274,7 @@ Can you tell me what that means? I work and just need an estimated time of arriv
 12273,negative,Flight Booking Problems,American,@AmericanAir Oh that seems to have undone the seat selections in MCE. We only wanted the CX card on there to select the free seats
 12274,negative,Flight Attendant Complaints,American,"@AmericanAir To announce DURING BOARDING that you chose to limit catering to the point that you WILL run out shows a lack of planning, IMO."
 12275,positive,Unknown,American,@AmericanAir Thanks for the quick response - it's appreciated!
-12276,neutral,Unknown,American,"@AmericanAir 
-Thank you for responding...My laptop is in my bag and I need it for work. I am worried. The file code is UTEVGW."
+12276,neutral,Unknown,American,"@AmericanAir Thank you for responding...My laptop is in my bag and I need it for work. I am worried. The file code is UTEVGW."
 12277,negative,Late Flight,American,@AmericanAir guess that's what I get for bragging on you. I fly you by choice unlike others who fly because they don't have other options JS
 12278,positive,Unknown,American,@AmericanAir thanks for the update
 12279,negative,Customer Service Issue,American,@AmericanAir thanks for finally letting me get through to book my flight. Frustration  set in... #donedeal #talktoahuman
@@ -12459,8 +12286,7 @@ Thank you for responding...My laptop is in my bag and I need it for work. I am w
 12285,negative,Late Flight,American,@AmericanAir now we are waiting on nitrogen for the struts and the airport nozzle is not calibrated so they are trying to find another???
 12286,negative,Late Flight,American,@AmericanAir DM me and I can explain the whole story. I should have been on an earlier flight not US1937
 12287,positive,Unknown,American,@AmericanAir Lets hope it stays that way.Big thanks to your ground/outside crews all across the US the last month. Great FB post yesterday.
-12288,negative,Lost Luggage,American,"@AmericanAir 
-Hello...My baggage has been lost in another city. Can anyone help me with this?"
+12288,negative,Lost Luggage,American,"@AmericanAir Hello...My baggage has been lost in another city. Can anyone help me with this?"
 12289,positive,Unknown,American,@AmericanAir my boss is :)
 12290,negative,Late Flight,American,"@AmericanAir sitting on plane in Columbus, supposed to leave an hour ago. Now the mechanic can't find a tool to service the shock absorber."
 12291,neutral,Unknown,American,"@AmericanAir Not here yet, but I plan on it. If you could have them fly low and slow right in front of me, that would be great. ;-)"
@@ -12603,8 +12429,7 @@ Hello...My baggage has been lost in another city. Can anyone help me with this?"
 12428,neutral,Unknown,American,"@AmericanAir the motor that usually starts the engine is broke and @CVGairport ground crew failed to do it on time, per pilot #maintenance"
 12429,positive,Unknown,American,@AmericanAir is rising like the sun at DCA this morning.  @NATCA members have the best view. #avgeek http://t.co/VAhdekVOKe
 12430,negative,Flight Attendant Complaints,American,@AmericanAir she has  the guy u served drinks 2  til he needed awheelchair to get off the plane is a more important then the assaulted women
-12431,negative,Can't Tell,American,"@AmericanAir there's a lot of talks and no doing. 
-MIA-SFO on a 20+ year old plane #nonewplanes #old #shame http://t.co/TwETPXUpPN"
+12431,negative,Can't Tell,American,"@AmericanAir there's a lot of talks and no doing. MIA-SFO on a 20+ year old plane #nonewplanes #old #shame http://t.co/TwETPXUpPN"
 12432,neutral,Unknown,American,"@AmericanAir and @CVGairport get it together, perfect combination for delays and Cancelled Flightlations"
 12433,negative,Customer Service Issue,American,@AmericanAir Sorry that is a sad answer a fully refundable first fare and no response in 6 weeks ! No more AA in my future !
 12434,neutral,Unknown,American,"@AmericanAir Thank you for the info! Changes need to be made over the phone, correct? Is there any way an AA agent can call me directly?"
@@ -12629,11 +12454,7 @@ MIA-SFO on a 20+ year old plane #nonewplanes #old #shame http://t.co/TwETPXUpPN"
 12453,negative,Customer Service Issue,American,"@AmericanAir I shared my experience several times (AA Ref#1-2990176298), but AA's response is senseless, weather was not the cause!!!"
 12454,neutral,Unknown,American,@AmericanAir record number is BPDFPP.
 12455,negative,Customer Service Issue,American,"@AmericanAir You should be apologizing for your rude sales reps and failure to offer anything other than trite, condescending platitudes...."
-12456,neutral,Unknown,American,"@AmericanAir Embassy Suites
-13341 Woodland Park Drive
-Herndon, Virginia, 20171 
-US 
-+1-703-464-0200"
+12456,neutral,Unknown,American,"@AmericanAir Embassy Suites 13341 Woodland Park Drive Herndon, Virginia, 20171 US +1-703-464-0200"
 12457,negative,Customer Service Issue,American,@AmericanAir is non existent and I will take this as far as needed.Why hide behind a corporate logo? Provide a number #tcf #useless #amateur
 12458,negative,Customer Service Issue,American,"@AmericanAir LAX-OGG-LAX using hard earned miles and was given lousy service, faulty seats on both legs and damaged bag. Your customer care"
 12459,negative,Lost Luggage,American,@AmericanAir they were no where to be found at Midnight Last Night! I would think the agent in LAX could have relayed that info.Bag on flt
@@ -12641,8 +12462,7 @@ US
 12461,negative,Bad Flight,American,@AmericanAir is it right to provide faulty seats on flights plus damage a $350 bag and not replace and shrug the damage off? Flights from...
 12462,negative,Customer Service Issue,American,@AmericanAir it isn't good enough. You need to provide a phone number. Other partners do. Should be investigated by @IATA @TheFAAOnline
 12463,neutral,Unknown,American,Lol great answer.. “@AmericanAir: @JayFranceschi Our agents are checking in passengers as quickly as possible. We appreciate your patience.”
-12464,neutral,Unknown,American,"@AmericanAir Super Spring Tides and “Tide of The Century” Drawing tourists to French and U.K coasts:
-http://t.co/gXdqORtsS0"
+12464,neutral,Unknown,American,"@AmericanAir Super Spring Tides and “Tide of The Century” Drawing tourists to French and U.K coasts: http://t.co/gXdqORtsS0"
 12465,neutral,Unknown,American,"@AmericanAir Ps, I was right."
 12466,negative,Lost Luggage,American,"@AmericanAir yes it is in Dulles and I need it delivered to the Embassy Suites in Herndon, VA. I'm still in Chicago from the fiasco in LAX"
 12467,negative,Customer Service Issue,American,@AmericanAir what's the point? So I can wait for another 6 weeks. U r one of the only airlines that refuses to handle complaints by phone
@@ -12863,9 +12683,7 @@ http://t.co/gXdqORtsS0"
 12682,negative,Cancelled Flight,American,@AmericanAir Again you guys are a huge joke and Cancelled Flight your flight for no reason. This is the 3rd time in one trip for me that you have
 12683,negative,Customer Service Issue,American,@AmericanAir WHAT IS GOING ON?  This is pathetic. Online doesn't work and phone wants $25 to give a seat assignment.
 12684,positive,Unknown,American,@AmericanAir I've just received the ticket. Thank you for your help
-12685,neutral,Unknown,American,"@AmericanAir jet slides off icy taxiway at @dfwairport 
-
-STORY: http://t.co/4pONJ3jidE http://t.co/3DCWerZ1kr"
+12685,neutral,Unknown,American,"@AmericanAir jet slides off icy taxiway at @dfwairport STORY: http://t.co/4pONJ3jidE http://t.co/3DCWerZ1kr"
 12686,negative,Customer Service Issue,American,@AmericanAir This is getting out of hand. I called Reservations to reserve the seats that it won't let me select online and there's a fee...
 12687,negative,Late Flight,American,"@AmericanAir on flight 1074 that has been delayed for hours over human errors like a food truck hitting the plane, now the lines are frozen."
 12688,negative,Can't Tell,American,@AmericanAir so disappointed with this airline never again will I book with you guys
@@ -12969,13 +12787,9 @@ STORY: http://t.co/4pONJ3jidE http://t.co/3DCWerZ1kr"
 12786,negative,Can't Tell,American,@AmericanAir my Mistake multibillion dollar company
 12787,negative,Customer Service Issue,American,@AmericanAir why would it take that long? My credit card company says the card hasn't been charged yet. Should it take 5 days for this?
 12788,negative,Late Flight,American,@AmericanAir for our delays !!! I'm out of more money because of you
-12789,negative,Flight Attendant Complaints,American,"@AmericanAir I have got a flight for
-The next day !! What about a credit ! You guys are a multimillion dollar company give us back a Credit"
+12789,negative,Flight Attendant Complaints,American,"@AmericanAir I have got a flight for The next day !! What about a credit ! You guys are a multimillion dollar company give us back a Credit"
 12790,negative,Customer Service Issue,American,@AmericanAir dont send me a tweet to cover your social media complaints. How about sending me a message with a way to resolve?!?! #CustServ
-12791,negative,Customer Service Issue,American,"@AmericanAir @barrettkarabis what a joke you can mail
-The receipt !! Yet. We can't mail
-Them
-A payment and fly before hand right"
+12791,negative,Customer Service Issue,American,"@AmericanAir @barrettkarabis what a joke you can mail The receipt !! Yet. We can't mail Them A payment and fly before hand right"
 12792,negative,Can't Tell,American,@AmericanAir No. It does. You could not be more wrong. http://t.co/66NXZhBbMT
 12793,positive,Unknown,American,@AmericanAir keep up the good work.  Got me to my destination safe and on time today
 12794,negative,Can't Tell,American,"@AmericanAir Why doesn't anyone make a better effort to retain customers. It should be an easy fix, I just want to travel AA."
@@ -13311,8 +13125,7 @@ A payment and fly before hand right"
 13124,neutral,Unknown,American,@AmericanAir followback
 13125,neutral,Unknown,American,"@AmericanAir Hahaha.... ""Meanwhile in Russia...."""
 13126,positive,Unknown,American,@AmericanAir thanks for keeping us safe
-13127,negative,Flight Attendant Complaints,American,"@AmericanAir There was no one from #AA at the #woase2015 event @HelsinkiAirport
-Lots of info available of #winterops"
+13127,negative,Flight Attendant Complaints,American,"@AmericanAir There was no one from #AA at the #woase2015 event @HelsinkiAirport Lots of info available of #winterops"
 13128,neutral,Unknown,American,"@AmericanAir is that the ""record locator""?"
 13129,negative,Customer Service Issue,American,@AmericanAir you keep returning my call and hanging up when I answer? Help reFlight Booking Problems a flight!
 13130,negative,Customer Service Issue,American,@AmericanAir been calling for over 24hrs now and getting no where but told to call back by the automated system is extremely frustrating
@@ -13343,10 +13156,8 @@ Lots of info available of #winterops"
 13155,negative,Customer Service Issue,American,"@AmericanAir got it, so it's just paying extra not to sit in the way back. Awesome. Never again."
 13156,negative,Customer Service Issue,American,"@AmericanAir Define ""sincerely"". Your actions do not reflect what you're saying in a poor attempt to redeem yourselves on social media."
 13157,neutral,Unknown,American,"@AmericanAir I'd like to explore both options, and what the cost might be to change the date and destination."
-13158,neutral,Unknown,American,"@AmericanAir #AmericanView
-The view of Oregon from seat 31F, flight AA1469 2/22/15 http://t.co/t9JBN9WZtq"
-13159,positive,Unknown,American,"@AmericanAir will award me 50,000 air miles!!! Yes I am going to take a vacation! 
-#thanksamericanairlines"
+13158,neutral,Unknown,American,"@AmericanAir #AmericanView The view of Oregon from seat 31F, flight AA1469 2/22/15 http://t.co/t9JBN9WZtq"
+13159,positive,Unknown,American,"@AmericanAir will award me 50,000 air miles!!! Yes I am going to take a vacation! #thanksamericanairlines"
 13160,negative,Can't Tell,American,"@AmericanAir follows the Talent PM of #BDSM porn site http://t.co/UQGW6qsFFU. New ""Economy Dungeon"" class coming? http://t.co/pl9Sop5IHu"
 13161,negative,Customer Service Issue,American,@AmericanAir @usairways who is the next stop after customer service.
 13162,negative,Customer Service Issue,American,@AmericanAir you said this last time. It doesn't take 6 weeks to reply to an email.
@@ -13562,8 +13373,7 @@ The view of Oregon from seat 31F, flight AA1469 2/22/15 http://t.co/t9JBN9WZtq"
 13372,neutral,Unknown,American,@AmericanAir #oaaret is our flight Cancelled Flightled?
 13373,negative,Flight Booking Problems,American,@AmericanAir it's not a friend it's a legally required chaperone on a school trip.
 13374,negative,Cancelled Flight,American,@AmericanAir @RLDelahunty record l#oaaret got email we couldn't get rescheduled on another flight but don't know if flight is Cancelled Flightled
-13375,negative,Customer Service Issue,American,"@AmericanAir it's more than technical problems. #frustrated #answerthephone 
-Res. on hold and can't get thru to use a credit to pay for it"
+13375,negative,Customer Service Issue,American,"@AmericanAir it's more than technical problems. #frustrated #answerthephone Res. on hold and can't get thru to use a credit to pay for it"
 13376,neutral,Unknown,American,"@AmericanAir good morning, please let me know if I will be able to get those luggage tags.   Tx!"
 13377,negative,Cancelled Flight,American,"@AmericanAir Cancelled Flighted flights, now I'm rerouted and have over 12 hrs of travel but you will bump paying customers for non revs. #custserv"
 13378,negative,Customer Service Issue,American,@AmericanAir on hold again....estimated 2 hr hold
@@ -13619,8 +13429,7 @@ Res. on hold and can't get thru to use a credit to pay for it"
 13428,neutral,Unknown,American,@AmericanAir I just sent a DM
 13429,negative,Customer Service Issue,American,@AmericanAir @Eleonora7 good luck I've been waiting a week
 13430,negative,Flight Attendant Complaints,American,@AmericanAir tisk tisk. Rude flight attendants yet again. I can't hang my suit up because I didn't buy first class? @Delta when will I learn
-13431,negative,Customer Service Issue,American,"@AmericanAir that would be appreciated. Just please don't send me to the same page with long form &amp; limited characters.
-Direct email?"
+13431,negative,Customer Service Issue,American,"@AmericanAir that would be appreciated. Just please don't send me to the same page with long form &amp; limited characters. Direct email?"
 13432,negative,Cancelled Flight,American,@AmericanAir this is the biggest joke of #customerservice I've ever seen from a  ✈️ brand http://t.co/XHSUUpHeZe
 13433,negative,Cancelled Flight,American,"@AmericanAir it would be awfully nice if you could send an alert when my flight is Cancelled Flighted. No text, no email, no love..."
 13434,negative,Cancelled Flight,American,@AmericanAir Thanks. Took care of it. Issue was IVR was unclear and took too long to get a call-back option. Would love to see that fixed.
@@ -13856,9 +13665,7 @@ Direct email?"
 13664,negative,Customer Service Issue,American,@AmericanAir it doesn't allow me to hold. That's the problem.
 13665,negative,Can't Tell,American,@AmericanAir has to be the worst airline in the world #yousuck #horrible #Oscars2015
 13666,neutral,Unknown,American,@AmericanAir Reebooked for tomorrow in AA 1389 LV-DFW at 810 am arriving 12.50pm; still open this flight?
-13667,negative,Lost Luggage,American,".@AmericanAir @USAirways Add insult to injury you guys ""misplaced"" my bag. 
-
-Can't believe you have to pay money to be treated this poorly."
+13667,negative,Lost Luggage,American,".@AmericanAir @USAirways Add insult to injury you guys ""misplaced"" my bag. Can't believe you have to pay money to be treated this poorly."
 13668,negative,Cancelled Flight,American,@AmericanAir My connecting flight to DFW was Cancelled Flightled and need to get to IND tomorrow. Any way I can get this sorted out? Been holding 1h08
 13669,negative,Bad Flight,American,@AmericanAir I would like to be reimbursed for my shuttle from Denver after #1080 diversion 6+ hours sitting in plane and mech problems
 13670,negative,Flight Booking Problems,American,@AmericanAir Please REPLY!  How do you mess up my rebook TWICE???
@@ -14058,8 +13865,7 @@ Can't believe you have to pay money to be treated this poorly."
 13864,negative,Cancelled Flight,American,"@AmericanAir i hope it takes you 6 hours to get home when it should take 20. my flight was Cancelled Flightled because they ""couldn't staff the plane"""
 13865,negative,Customer Service Issue,American,@AmericanAir @SouljaCoy what is AA going to do to fix their utterly embarrassing customer service? You won't even answer the dang phone!
 13866,negative,Customer Service Issue,American,@AmericanAir not yet. I'm next in the terminal a customer service area.
-13867,negative,Flight Booking Problems,American,"@AmericanAir and it gets better...other passengers rebooked direct on other airlines. #whereisthelove 
-#whybeAAFF?"
+13867,negative,Flight Booking Problems,American,"@AmericanAir and it gets better...other passengers rebooked direct on other airlines. #whereisthelove #whybeAAFF?"
 13868,negative,Cancelled Flight,American,"@AmericanAir I need to speak to a REAL PERSON. My flight was Cancelled Flightled with no explanation, and I've been on hold for more than 3 hours."
 13869,negative,Can't Tell,American,@AmericanAir you have let me down. Seriously. #unhappycustomer
 13870,negative,Bad Flight,American,@AmericanAir @DuaneNClark  ever think about being prepared and bringing in more people? Does anyone have any business sense at AA?
@@ -14357,10 +14163,7 @@ Can't believe you have to pay money to be treated this poorly."
 14162,negative,Late Flight,American,@AmericanAir I still am not on a flight. Ive been here allll day and now we're not boarding because we're waiting for catering?
 14163,negative,Late Flight,American,@AmericanAir my husband and 5 year old son stuck overnight in DC thanks to 7 crew members arguing over who was boarding the flight
 14164,negative,Customer Service Issue,American,@AmericanAir if this is how you guys work then i will never fly with you guys again.
-14165,positive,Unknown,American,"@AmericanAir versus @JetBlue 
-in Customer Service?
-Who will win!
-For Me @AmericanAir is a convenience to a trip to Cali &lt;3"
+14165,positive,Unknown,American,"@AmericanAir versus @JetBlue in Customer Service? Who will win! For Me @AmericanAir is a convenience to a trip to Cali &lt;3"
 14166,negative,Customer Service Issue,American,"@AmericanAir agents refuse to help, ""too busy"" &amp; need to call advantage#. NO ONE willing to help and apparently being exec plat means ZERO"
 14167,negative,Cancelled Flight,American,@AmericanAir fight got Cancelled Flighted can u help me rebook a flight?  Call center is too busy to answer calls or even put me on hold #yuck
 14168,neutral,Unknown,American,@AmericanAir you should be contacting her for a refund - dm me and I will provide phone number
@@ -14557,8 +14360,7 @@ For Me @AmericanAir is a convenience to a trip to Cali &lt;3"
 14359,negative,Customer Service Issue,American,@AmericanAir @NY_NJairports Do you guys teach poor customer service or is it just part of an american dream?
 14360,negative,Cancelled Flight,American,"@AmericanAir 3231DTW to LAG at 4:45. Flight Cancelled Flightled with no notice. Given a voucher to a dirty hotel, with no food vouchers or apology."
 14361,positive,Unknown,American,@AmericanAir I would like to thank the customer service team for their response to my Cancelled Flightled flight but just offering to (cont)
-14362,negative,Cancelled Flight,American,"@AmericanAir 
-No one answers phone, delayed/Cancelled Flightled flights. Rude employees. You only get (I'm sorry, we apologize) blah blah blah. Bad"
+14362,negative,Cancelled Flight,American,"@AmericanAir No one answers phone, delayed/Cancelled Flightled flights. Rude employees. You only get (I'm sorry, we apologize) blah blah blah. Bad"
 14363,negative,Customer Service Issue,American,@AmericanAir Reservation Line won't let me speak to a representative because they are too busy. They literally disconnect you. Why bother?
 14364,positive,Unknown,American,@AmericanAir yes called your UK number on skype…well worth the $.50.  i recommend others do the same.
 14365,negative,Flight Booking Problems,American,@AmericanAir Im trying to call and book a reward ticket on one world partners but your automated system wont let me talk to any1.  Great job
@@ -14605,9 +14407,7 @@ No one answers phone, delayed/Cancelled Flightled flights. Rude employees. You o
 14406,negative,Customer Service Issue,American,@AmericanAir  please call us back to rebook!!! 7403607771. We need to get back to Columbus!!!!!! Please help
 14407,negative,Customer Service Issue,American,@AmericanAir Rebooked for tomorrow morning. Never been here - not sure what I can see before tomorrow morning!
 14408,negative,Customer Service Issue,American,"@AmericanAir...still waiting for a call back....attempt #9 and hour #13...can't put a hold on an online tix, we are within seven day window."
-14409,negative,Bad Flight,American,"@AmericanAir 
-
-Seats gvn away. 7 strangers in 2 Chicago. Rented van. Drove to toledo. No help, no offer, no hotel. http://t.co/nxQiJCoJNj"
+14409,negative,Bad Flight,American,"@AmericanAir Seats gvn away. 7 strangers in 2 Chicago. Rented van. Drove to toledo. No help, no offer, no hotel. http://t.co/nxQiJCoJNj"
 14410,negative,Customer Service Issue,American,@AmericanAir - gold elite loyalty customer..can't count on my hometown preferred airline to do right. #bummed..
 14411,negative,Flight Booking Problems,American,@AmericanAir @tcunningham10 please call us back to rebook. 7403607771 we can't through!!!!! We need to get to columbus!!!!
 14412,negative,Customer Service Issue,American,@AmericanAir  flight to dca I need to change asap help can't get through
@@ -14667,9 +14467,7 @@ Seats gvn away. 7 strangers in 2 Chicago. Rented van. Drove to toledo. No help, 
 14466,negative,Customer Service Issue,American,@AmericanAir Somehow between DFW and MIA I got bumped from 12B all the way to 41G on 2312? What's up with that?
 14467,negative,Customer Service Issue,American,"@AmericanAir #AmericanAirlines 1 1/2 hr wait for bags. If this is the a taste of the worlds largest airline, heaven help aviation"
 14468,negative,Late Flight,American,@AmericanAir @macario2 but you are Late Flight again!! Again and again! Where are the crew?
-14469,positive,Unknown,American,"@AmericanAir 
-
-Fantastic support by the Twitter team. I appreciate it. Thanks again."
+14469,positive,Unknown,American,"@AmericanAir Fantastic support by the Twitter team. I appreciate it. Thanks again."
 14470,neutral,Unknown,American,@AmericanAir  hung up on now many times trying to cal 8004337300 crazy
 14471,negative,Can't Tell,American,@AmericanAir that's quite an impressive list of fees!
 14472,negative,Customer Service Issue,American,"@AmericanAir @GolfWithWoody Don't buy it, Woody. They're making it MUCH worse with understaffing, rudeness, and pre-rookie mistakes"

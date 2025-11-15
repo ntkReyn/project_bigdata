@@ -52,11 +52,11 @@ def run_flink_stream_job():
     ).window(
         Tumble.over(lit(10).seconds).on(col("proc_time")).alias("w")
     ).group_by(
-        col("w"), col("airline"), col("airline_sentiment")
+        col("w"), col("airline"), col("airline_sentiment"), col("negativereason")
     ).select(
         col("airline"),
         col("airline_sentiment").alias("sentiment"),
-        col("negativereason"),
+        col("negativereason").alias("negativereason"),
         col("airline_sentiment").count.alias("count"),
         col("w").end.alias("window_time")
     )
